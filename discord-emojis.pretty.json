@@ -1,6 +1,6 @@
 {
 	"people":[{
-		"names":["grinning"],
+		"names":["grinning","grinning_face"],
 		"surrogates":"😀",
 		"unicodeVersion":6.1
 	},{
@@ -20,6 +20,10 @@
 		"surrogates":"😆",
 		"unicodeVersion":6
 	},{
+		"names":["face_holding_back_tears"],
+		"surrogates":"🥹",
+		"unicodeVersion":14
+	},{
 		"names":["sweat_smile"],
 		"surrogates":"😅",
 		"unicodeVersion":6
@@ -32,7 +36,11 @@
 		"surrogates":"🤣",
 		"unicodeVersion":9
 	},{
-		"names":["relaxed"],
+		"names":["smiling_face_with_tear"],
+		"surrogates":"🥲",
+		"unicodeVersion":13
+	},{
+		"names":["relaxed","smiling_face"],
 		"surrogates":"☺️",
 		"unicodeVersion":1.1
 	},{
@@ -52,17 +60,13 @@
 		"surrogates":"🙃",
 		"unicodeVersion":8
 	},{
-		"names":["wink"],
+		"names":["wink","winking_face"],
 		"surrogates":"😉",
 		"unicodeVersion":6
 	},{
-		"names":["relieved"],
+		"names":["relieved","relieved_face"],
 		"surrogates":"😌",
 		"unicodeVersion":6
-	},{
-		"names":["smiling_face_with_tear"],
-		"surrogates":"🥲",
-		"unicodeVersion":13
 	},{
 		"names":["heart_eyes"],
 		"surrogates":"😍",
@@ -76,7 +80,7 @@
 		"surrogates":"😘",
 		"unicodeVersion":6
 	},{
-		"names":["kissing"],
+		"names":["kissing","kissing_face"],
 		"surrogates":"😗",
 		"unicodeVersion":6.1
 	},{
@@ -124,6 +128,10 @@
 		"surrogates":"😎",
 		"unicodeVersion":6
 	},{
+		"names":["disguised_face"],
+		"surrogates":"🥸",
+		"unicodeVersion":13
+	},{
 		"names":["star_struck"],
 		"surrogates":"🤩",
 		"unicodeVersion":10
@@ -132,11 +140,11 @@
 		"surrogates":"🥳",
 		"unicodeVersion":11
 	},{
-		"names":["smirk"],
+		"names":["smirk","smirking_face"],
 		"surrogates":"😏",
 		"unicodeVersion":6
 	},{
-		"names":["unamused"],
+		"names":["unamused","unamused_face"],
 		"surrogates":"😒",
 		"unicodeVersion":6
 	},{
@@ -144,15 +152,15 @@
 		"surrogates":"😞",
 		"unicodeVersion":6
 	},{
-		"names":["pensive"],
+		"names":["pensive","pensive_face"],
 		"surrogates":"😔",
 		"unicodeVersion":6
 	},{
-		"names":["worried"],
+		"names":["worried","worried_face"],
 		"surrogates":"😟",
 		"unicodeVersion":6.1
 	},{
-		"names":["confused"],
+		"names":["confused","confused_face"],
 		"surrogates":"😕",
 		"unicodeVersion":6.1
 	},{
@@ -160,7 +168,7 @@
 		"surrogates":"🙁",
 		"unicodeVersion":7
 	},{
-		"names":["frowning2","white_frowning_face"],
+		"names":["frowning2","white_frowning_face","frowning_face"],
 		"surrogates":"☹️",
 		"unicodeVersion":1.1
 	},{
@@ -176,7 +184,7 @@
 		"surrogates":"😫",
 		"unicodeVersion":6
 	},{
-		"names":["weary"],
+		"names":["weary","weary_face"],
 		"surrogates":"😩",
 		"unicodeVersion":6
 	},{
@@ -184,7 +192,7 @@
 		"surrogates":"🥺",
 		"unicodeVersion":11
 	},{
-		"names":["cry"],
+		"names":["cry","crying_face"],
 		"surrogates":"😢",
 		"unicodeVersion":6
 	},{
@@ -196,15 +204,11 @@
 		"surrogates":"😤",
 		"unicodeVersion":6
 	},{
-		"names":["face_exhaling"],
-		"surrogates":"😮‍💨",
-		"unicodeVersion":13.1
-	},{
-		"names":["angry"],
+		"names":["angry","angry_face"],
 		"surrogates":"😠",
 		"unicodeVersion":6
 	},{
-		"names":["rage"],
+		"names":["rage","pouting_face"],
 		"surrogates":"😡",
 		"unicodeVersion":6
 	},{
@@ -216,13 +220,9 @@
 		"surrogates":"🤯",
 		"unicodeVersion":10
 	},{
-		"names":["flushed"],
+		"names":["flushed","flushed_face"],
 		"surrogates":"😳",
 		"unicodeVersion":6
-	},{
-		"names":["face_in_clouds"],
-		"surrogates":"😶‍🌫️",
-		"unicodeVersion":13.1
 	},{
 		"names":["hot_face"],
 		"surrogates":"🥵",
@@ -232,11 +232,15 @@
 		"surrogates":"🥶",
 		"unicodeVersion":11
 	},{
+		"names":["face_in_clouds"],
+		"surrogates":"😶‍🌫️",
+		"unicodeVersion":13.1
+	},{
 		"names":["scream"],
 		"surrogates":"😱",
 		"unicodeVersion":6
 	},{
-		"names":["fearful"],
+		"names":["fearful","fearful_face"],
 		"surrogates":"😨",
 		"unicodeVersion":6
 	},{
@@ -260,17 +264,29 @@
 		"surrogates":"🤔",
 		"unicodeVersion":8
 	},{
+		"names":["face_with_peeking_eye"],
+		"surrogates":"🫣",
+		"unicodeVersion":14
+	},{
 		"names":["face_with_hand_over_mouth"],
 		"surrogates":"🤭",
 		"unicodeVersion":10
 	},{
-		"names":["yawning_face"],
-		"surrogates":"🥱",
-		"unicodeVersion":12
+		"names":["face_with_open_eyes_and_hand_over_mouth"],
+		"surrogates":"🫢",
+		"unicodeVersion":14
+	},{
+		"names":["saluting_face"],
+		"surrogates":"🫡",
+		"unicodeVersion":14
 	},{
 		"names":["shushing_face"],
 		"surrogates":"🤫",
 		"unicodeVersion":10
+	},{
+		"names":["melting_face"],
+		"surrogates":"🫠",
+		"unicodeVersion":14
 	},{
 		"names":["lying_face","liar"],
 		"surrogates":"🤥",
@@ -280,13 +296,33 @@
 		"surrogates":"😶",
 		"unicodeVersion":6
 	},{
+		"names":["dotted_line_face"],
+		"surrogates":"🫥",
+		"unicodeVersion":14
+	},{
 		"names":["neutral_face"],
 		"surrogates":"😐",
 		"unicodeVersion":6
 	},{
+		"names":["face_with_diagonal_mouth"],
+		"surrogates":"🫤",
+		"unicodeVersion":14
+	},{
 		"names":["expressionless"],
 		"surrogates":"😑",
 		"unicodeVersion":6.1
+	},{
+		"names":["shaking_face"],
+		"surrogates":"🫨",
+		"unicodeVersion":15
+	},{
+		"names":["head_shaking_horizontally"],
+		"surrogates":"🙂‍↔️",
+		"unicodeVersion":15.1
+	},{
+		"names":["head_shaking_vertically"],
+		"surrogates":"🙂‍↕️",
+		"unicodeVersion":15.1
 	},{
 		"names":["grimacing"],
 		"surrogates":"😬",
@@ -296,7 +332,7 @@
 		"surrogates":"🙄",
 		"unicodeVersion":8
 	},{
-		"names":["hushed"],
+		"names":["hushed","hushed_face"],
 		"surrogates":"😯",
 		"unicodeVersion":6.1
 	},{
@@ -316,7 +352,11 @@
 		"surrogates":"😲",
 		"unicodeVersion":6
 	},{
-		"names":["sleeping"],
+		"names":["yawning_face"],
+		"surrogates":"🥱",
+		"unicodeVersion":12
+	},{
+		"names":["sleeping","sleeping_face"],
 		"surrogates":"😴",
 		"unicodeVersion":6.1
 	},{
@@ -324,9 +364,13 @@
 		"surrogates":"🤤",
 		"unicodeVersion":9
 	},{
-		"names":["sleepy"],
+		"names":["sleepy","sleepy_face"],
 		"surrogates":"😪",
 		"unicodeVersion":6
+	},{
+		"names":["face_exhaling"],
+		"surrogates":"😮‍💨",
+		"unicodeVersion":13.1
 	},{
 		"names":["dizzy_face"],
 		"surrogates":"😵",
@@ -376,10 +420,6 @@
 		"surrogates":"🤠",
 		"unicodeVersion":9
 	},{
-		"names":["disguised_face"],
-		"surrogates":"🥸",
-		"unicodeVersion":13
-	},{
 		"names":["smiling_imp"],
 		"surrogates":"😈",
 		"unicodeVersion":6
@@ -388,11 +428,11 @@
 		"surrogates":"👿",
 		"unicodeVersion":6
 	},{
-		"names":["japanese_ogre"],
+		"names":["japanese_ogre","ogre"],
 		"surrogates":"👹",
 		"unicodeVersion":6
 	},{
-		"names":["japanese_goblin"],
+		"names":["japanese_goblin","goblin"],
 		"surrogates":"👺",
 		"unicodeVersion":6
 	},{
@@ -400,7 +440,7 @@
 		"surrogates":"🤡",
 		"unicodeVersion":9
 	},{
-		"names":["poop","shit","hankey","poo"],
+		"names":["poop","shit","hankey","poo","pile_of_poo"],
 		"surrogates":"💩",
 		"unicodeVersion":6
 	},{
@@ -420,7 +460,7 @@
 		"surrogates":"👽",
 		"unicodeVersion":6
 	},{
-		"names":["space_invader"],
+		"names":["space_invader","alien_monster"],
 		"surrogates":"👾",
 		"unicodeVersion":6
 	},{
@@ -432,7 +472,7 @@
 		"surrogates":"🎃",
 		"unicodeVersion":6
 	},{
-		"names":["smiley_cat"],
+		"names":["smiley_cat","grinning_cat"],
 		"surrogates":"😺",
 		"unicodeVersion":6
 	},{
@@ -456,17 +496,209 @@
 		"surrogates":"😽",
 		"unicodeVersion":6
 	},{
-		"names":["scream_cat"],
+		"names":["scream_cat","weary_cat"],
 		"surrogates":"🙀",
 		"unicodeVersion":6
 	},{
-		"names":["crying_cat_face"],
+		"names":["crying_cat_face","crying_cat"],
 		"surrogates":"😿",
 		"unicodeVersion":6
 	},{
 		"names":["pouting_cat"],
 		"surrogates":"😾",
 		"unicodeVersion":6
+	},{
+		"names":["handshake","shaking_hands"],
+		"surrogates":"🤝",
+		"unicodeVersion":9,
+		"diversityChildren":[{
+			"names":["handshake_tone1","handshake_light_skin_tone"],
+			"surrogates":"🤝🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3fb"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone1_tone2","handshake_light_skin_tone_medium_light_skin_tone"],
+			"surrogates":"🫱🏻‍🫲🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fb","1f3fc"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone1_tone3","handshake_light_skin_tone_medium_skin_tone"],
+			"surrogates":"🫱🏻‍🫲🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3fb","1f3fd"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone1_tone4","handshake_light_skin_tone_medium_dark_skin_tone"],
+			"surrogates":"🫱🏻‍🫲🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3fb","1f3fe"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone1_tone5","handshake_light_skin_tone_dark_skin_tone"],
+			"surrogates":"🫱🏻‍🫲🏿",
+			"unicodeVersion":14,
+			"diversity":["1f3fb","1f3ff"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone2_tone1","handshake_medium_light_skin_tone_light_skin_tone"],
+			"surrogates":"🫱🏼‍🫲🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3fc","1f3fb"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone2","handshake_medium_light_skin_tone"],
+			"surrogates":"🤝🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fc"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone2_tone3","handshake_medium_light_skin_tone_medium_skin_tone"],
+			"surrogates":"🫱🏼‍🫲🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3fc","1f3fd"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone2_tone4","handshake_medium_light_skin_tone_medium_dark_skin_tone"],
+			"surrogates":"🫱🏼‍🫲🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3fc","1f3fe"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone2_tone5","handshake_medium_light_skin_tone_dark_skin_tone"],
+			"surrogates":"🫱🏼‍🫲🏿",
+			"unicodeVersion":14,
+			"diversity":["1f3fc","1f3ff"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone3_tone1","handshake_medium_skin_tone_light_skin_tone"],
+			"surrogates":"🫱🏽‍🫲🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3fd","1f3fb"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone3_tone2","handshake_medium_skin_tone_medium_light_skin_tone"],
+			"surrogates":"🫱🏽‍🫲🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fd","1f3fc"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone3","handshake_medium_skin_tone"],
+			"surrogates":"🤝🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3fd"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone3_tone4","handshake_medium_skin_tone_medium_dark_skin_tone"],
+			"surrogates":"🫱🏽‍🫲🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3fd","1f3fe"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone3_tone5","handshake_medium_skin_tone_dark_skin_tone"],
+			"surrogates":"🫱🏽‍🫲🏿",
+			"unicodeVersion":14,
+			"diversity":["1f3fd","1f3ff"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone4_tone1","handshake_medium_dark_skin_tone_light_skin_tone"],
+			"surrogates":"🫱🏾‍🫲🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3fe","1f3fb"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone4_tone2","handshake_medium_dark_skin_tone_medium_light_skin_tone"],
+			"surrogates":"🫱🏾‍🫲🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fe","1f3fc"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone4_tone3","handshake_medium_dark_skin_tone_medium_skin_tone"],
+			"surrogates":"🫱🏾‍🫲🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3fe","1f3fd"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone4","handshake_medium_dark_skin_tone"],
+			"surrogates":"🤝🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3fe"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone4_tone5","handshake_medium_dark_skin_tone_dark_skin_tone"],
+			"surrogates":"🫱🏾‍🫲🏿",
+			"unicodeVersion":14,
+			"diversity":["1f3fe","1f3ff"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone5_tone1","handshake_dark_skin_tone_light_skin_tone"],
+			"surrogates":"🫱🏿‍🫲🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3ff","1f3fb"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone5_tone2","handshake_dark_skin_tone_medium_light_skin_tone"],
+			"surrogates":"🫱🏿‍🫲🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3ff","1f3fc"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone5_tone3","handshake_dark_skin_tone_medium_skin_tone"],
+			"surrogates":"🫱🏿‍🫲🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3ff","1f3fd"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone5_tone4","handshake_dark_skin_tone_medium_dark_skin_tone"],
+			"surrogates":"🫱🏿‍🫲🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3ff","1f3fe"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["handshake_tone5","handshake_dark_skin_tone"],
+			"surrogates":"🤝🏿",
+			"unicodeVersion":14,
+			"diversity":["1f3ff"],
+			"hasMultiDiversityParent":true
+		}],
+		"hasMultiDiversity":true
+	},{
+		"names":["heart_hands"],
+		"surrogates":"🫶",
+		"unicodeVersion":14,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["heart_hands_tone1","heart_hands_light_skin_tone"],
+			"surrogates":"🫶🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["heart_hands_tone2","heart_hands_medium_light_skin_tone"],
+			"surrogates":"🫶🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["heart_hands_tone3","heart_hands_medium_skin_tone"],
+			"surrogates":"🫶🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["heart_hands_tone4","heart_hands_medium_dark_skin_tone"],
+			"surrogates":"🫶🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["heart_hands_tone5","heart_hands_dark_skin_tone"],
+			"surrogates":"🫶🏿",
+			"unicodeVersion":14,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
 	},{
 		"names":["palms_up_together"],
 		"surrogates":"🤲",
@@ -540,7 +772,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["raised_hands"],
+		"names":["raised_hands","raising_hands"],
 		"surrogates":"🙌",
 		"unicodeVersion":6,
 		"hasDiversity":true,
@@ -612,11 +844,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["handshake","shaking_hands"],
-		"surrogates":"🤝",
-		"unicodeVersion":9
-	},{
-		"names":["thumbsup","+1","thumbup"],
+		"names":["thumbsup","+1","thumbup","thumbs_up"],
 		"surrogates":"👍",
 		"unicodeVersion":6,
 		"hasDiversity":true,
@@ -652,7 +880,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["thumbsdown","-1","thumbdown"],
+		"names":["thumbsdown","-1","thumbdown","thumbs_down"],
 		"surrogates":"👎",
 		"unicodeVersion":6,
 		"hasDiversity":true,
@@ -688,7 +916,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["punch"],
+		"names":["punch","oncoming_fist"],
 		"surrogates":"👊",
 		"unicodeVersion":6,
 		"hasDiversity":true,
@@ -724,7 +952,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["fist"],
+		"names":["fist","raised_fist"],
 		"surrogates":"✊",
 		"unicodeVersion":6,
 		"hasDiversity":true,
@@ -832,6 +1060,78 @@
 			"hasDiversityParent":true
 		}]
 	},{
+		"names":["leftwards_pushing_hand"],
+		"surrogates":"🫷",
+		"unicodeVersion":15,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["leftwards_pushing_hand_tone1","leftwards_pushing_hand_light_skin_tone"],
+			"surrogates":"🫷🏻",
+			"unicodeVersion":15,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["leftwards_pushing_hand_tone2","leftwards_pushing_hand_medium_light_skin_tone"],
+			"surrogates":"🫷🏼",
+			"unicodeVersion":15,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["leftwards_pushing_hand_tone3","leftwards_pushing_hand_medium_skin_tone"],
+			"surrogates":"🫷🏽",
+			"unicodeVersion":15,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["leftwards_pushing_hand_tone4","leftwards_pushing_hand_medium_dark_skin_tone"],
+			"surrogates":"🫷🏾",
+			"unicodeVersion":15,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["leftwards_pushing_hand_tone5","leftwards_pushing_hand_dark_skin_tone"],
+			"surrogates":"🫷🏿",
+			"unicodeVersion":15,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["rightwards_pushing_hand"],
+		"surrogates":"🫸",
+		"unicodeVersion":15,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["rightwards_pushing_hand_tone1","rightwards_pushing_hand_light_skin_tone"],
+			"surrogates":"🫸🏻",
+			"unicodeVersion":15,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["rightwards_pushing_hand_tone2","rightwards_pushing_hand_medium_light_skin_tone"],
+			"surrogates":"🫸🏼",
+			"unicodeVersion":15,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["rightwards_pushing_hand_tone3","rightwards_pushing_hand_medium_skin_tone"],
+			"surrogates":"🫸🏽",
+			"unicodeVersion":15,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["rightwards_pushing_hand_tone4","rightwards_pushing_hand_medium_dark_skin_tone"],
+			"surrogates":"🫸🏾",
+			"unicodeVersion":15,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["rightwards_pushing_hand_tone5","rightwards_pushing_hand_dark_skin_tone"],
+			"surrogates":"🫸🏿",
+			"unicodeVersion":15,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
 		"names":["fingers_crossed","hand_with_index_and_middle_finger_crossed"],
 		"surrogates":"🤞",
 		"unicodeVersion":9,
@@ -868,7 +1168,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["v"],
+		"names":["v","victory_hand"],
 		"surrogates":"✌️",
 		"unicodeVersion":1.1,
 		"hasDiversity":true,
@@ -900,6 +1200,42 @@
 			"names":["v_tone5"],
 			"surrogates":"✌🏿",
 			"unicodeVersion":8,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["hand_with_index_finger_and_thumb_crossed"],
+		"surrogates":"🫰",
+		"unicodeVersion":14,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["hand_with_index_finger_and_thumb_crossed_tone1","hand_with_index_finger_and_thumb_crossed_light_skin_tone"],
+			"surrogates":"🫰🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["hand_with_index_finger_and_thumb_crossed_tone2","hand_with_index_finger_and_thumb_crossed_medium_light_skin_tone"],
+			"surrogates":"🫰🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["hand_with_index_finger_and_thumb_crossed_tone3","hand_with_index_finger_and_thumb_crossed_medium_skin_tone"],
+			"surrogates":"🫰🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["hand_with_index_finger_and_thumb_crossed_tone4","hand_with_index_finger_and_thumb_crossed_medium_dark_skin_tone"],
+			"surrogates":"🫰🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["hand_with_index_finger_and_thumb_crossed_tone5","hand_with_index_finger_and_thumb_crossed_dark_skin_tone"],
+			"surrogates":"🫰🏿",
+			"unicodeVersion":14,
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
 		}]
@@ -1012,6 +1348,42 @@
 			"hasDiversityParent":true
 		}]
 	},{
+		"names":["pinched_fingers"],
+		"surrogates":"🤌",
+		"unicodeVersion":13,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["pinched_fingers_tone2","pinched_fingers_medium_light_skin_tone"],
+			"surrogates":"🤌🏼",
+			"unicodeVersion":13,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["pinched_fingers_tone1","pinched_fingers_light_skin_tone"],
+			"surrogates":"🤌🏻",
+			"unicodeVersion":13,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["pinched_fingers_tone3","pinched_fingers_medium_skin_tone"],
+			"surrogates":"🤌🏽",
+			"unicodeVersion":13,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["pinched_fingers_tone4","pinched_fingers_medium_dark_skin_tone"],
+			"surrogates":"🤌🏾",
+			"unicodeVersion":13,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["pinched_fingers_tone5","pinched_fingers_dark_skin_tone"],
+			"surrogates":"🤌🏿",
+			"unicodeVersion":13,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
 		"names":["pinching_hand"],
 		"surrogates":"🤏",
 		"unicodeVersion":12,
@@ -1048,38 +1420,74 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["pinched_fingers"],
-		"surrogates":"🤌",
-		"unicodeVersion":13,
+		"names":["palm_down_hand"],
+		"surrogates":"🫳",
+		"unicodeVersion":14,
 		"hasDiversity":true,
 		"diversityChildren":[{
-			"names":["pinched_fingers_tone2","pinched_fingers_medium_light_skin_tone"],
-			"surrogates":"🤌🏼",
-			"unicodeVersion":13,
-			"diversity":["1f3fc"],
-			"hasDiversityParent":true
-		},{
-			"names":["pinched_fingers_tone1","pinched_fingers_light_skin_tone"],
-			"surrogates":"🤌🏻",
-			"unicodeVersion":13,
+			"names":["palm_down_hand_tone1","palm_down_hand_light_skin_tone"],
+			"surrogates":"🫳🏻",
+			"unicodeVersion":14,
 			"diversity":["1f3fb"],
 			"hasDiversityParent":true
 		},{
-			"names":["pinched_fingers_tone3","pinched_fingers_medium_skin_tone"],
-			"surrogates":"🤌🏽",
-			"unicodeVersion":13,
+			"names":["palm_down_hand_tone2","palm_down_hand_medium_light_skin_tone"],
+			"surrogates":"🫳🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["palm_down_hand_tone3","palm_down_hand_medium_skin_tone"],
+			"surrogates":"🫳🏽",
+			"unicodeVersion":14,
 			"diversity":["1f3fd"],
 			"hasDiversityParent":true
 		},{
-			"names":["pinched_fingers_tone4","pinched_fingers_medium_dark_skin_tone"],
-			"surrogates":"🤌🏾",
-			"unicodeVersion":13,
+			"names":["palm_down_hand_tone4","palm_down_hand_medium_dark_skin_tone"],
+			"surrogates":"🫳🏾",
+			"unicodeVersion":14,
 			"diversity":["1f3fe"],
 			"hasDiversityParent":true
 		},{
-			"names":["pinched_fingers_tone5","pinched_fingers_dark_skin_tone"],
-			"surrogates":"🤌🏿",
-			"unicodeVersion":13,
+			"names":["palm_down_hand_tone5","palm_down_hand_dark_skin_tone"],
+			"surrogates":"🫳🏿",
+			"unicodeVersion":14,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["palm_up_hand"],
+		"surrogates":"🫴",
+		"unicodeVersion":14,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["palm_up_hand_tone1","palm_up_hand_light_skin_tone"],
+			"surrogates":"🫴🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["palm_up_hand_tone2","palm_up_hand_medium_light_skin_tone"],
+			"surrogates":"🫴🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["palm_up_hand_tone3","palm_up_hand_medium_skin_tone"],
+			"surrogates":"🫴🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["palm_up_hand_tone4","palm_up_hand_medium_dark_skin_tone"],
+			"surrogates":"🫴🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["palm_up_hand_tone5","palm_up_hand_dark_skin_tone"],
+			"surrogates":"🫴🏿",
+			"unicodeVersion":14,
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
 		}]
@@ -1372,7 +1780,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["vulcan","raised_hand_with_part_between_middle_and_ring_fingers"],
+		"names":["vulcan","raised_hand_with_part_between_middle_and_ring_fingers","vulcan_salute"],
 		"surrogates":"🖖",
 		"unicodeVersion":7,
 		"hasDiversity":true,
@@ -1408,7 +1816,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["wave"],
+		"names":["wave","waving_hand"],
 		"surrogates":"👋",
 		"unicodeVersion":6,
 		"hasDiversity":true,
@@ -1480,7 +1888,79 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["muscle"],
+		"names":["leftwards_hand"],
+		"surrogates":"🫲",
+		"unicodeVersion":14,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["leftwards_hand_tone1","leftwards_hand_light_skin_tone"],
+			"surrogates":"🫲🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["leftwards_hand_tone2","leftwards_hand_medium_light_skin_tone"],
+			"surrogates":"🫲🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["leftwards_hand_tone3","leftwards_hand_medium_skin_tone"],
+			"surrogates":"🫲🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["leftwards_hand_tone4","leftwards_hand_medium_dark_skin_tone"],
+			"surrogates":"🫲🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["leftwards_hand_tone5","leftwards_hand_dark_skin_tone"],
+			"surrogates":"🫲🏿",
+			"unicodeVersion":14,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["rightwards_hand"],
+		"surrogates":"🫱",
+		"unicodeVersion":14,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["rightwards_hand_tone1","rightwards_hand_light_skin_tone"],
+			"surrogates":"🫱🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["rightwards_hand_tone2","rightwards_hand_medium_light_skin_tone"],
+			"surrogates":"🫱🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["rightwards_hand_tone3","rightwards_hand_medium_skin_tone"],
+			"surrogates":"🫱🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["rightwards_hand_tone4","rightwards_hand_medium_dark_skin_tone"],
+			"surrogates":"🫱🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["rightwards_hand_tone5","rightwards_hand_dark_skin_tone"],
+			"surrogates":"🫱🏿",
+			"unicodeVersion":14,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["muscle","flexed_biceps"],
 		"surrogates":"💪",
 		"unicodeVersion":6,
 		"hasDiversity":true,
@@ -1592,7 +2072,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["pray"],
+		"names":["pray","folded_hands"],
 		"surrogates":"🙏",
 		"unicodeVersion":6,
 		"hasDiversity":true,
@@ -1624,6 +2104,42 @@
 			"names":["pray_tone5"],
 			"surrogates":"🙏🏿",
 			"unicodeVersion":8,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["index_pointing_at_the_viewer"],
+		"surrogates":"🫵",
+		"unicodeVersion":14,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["index_pointing_at_the_viewer_tone1","index_pointing_at_the_viewer_light_skin_tone"],
+			"surrogates":"🫵🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["index_pointing_at_the_viewer_tone2","index_pointing_at_the_viewer_medium_light_skin_tone"],
+			"surrogates":"🫵🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["index_pointing_at_the_viewer_tone3","index_pointing_at_the_viewer_medium_skin_tone"],
+			"surrogates":"🫵🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["index_pointing_at_the_viewer_tone4","index_pointing_at_the_viewer_medium_dark_skin_tone"],
+			"surrogates":"🫵🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["index_pointing_at_the_viewer_tone5","index_pointing_at_the_viewer_dark_skin_tone"],
+			"surrogates":"🫵🏿",
+			"unicodeVersion":14,
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
 		}]
@@ -1708,13 +2224,17 @@
 		"surrogates":"💄",
 		"unicodeVersion":6
 	},{
-		"names":["kiss"],
+		"names":["kiss","kiss_mark"],
 		"surrogates":"💋",
 		"unicodeVersion":6
 	},{
-		"names":["lips"],
+		"names":["lips","mouth"],
 		"surrogates":"👄",
 		"unicodeVersion":6
+	},{
+		"names":["biting_lip"],
+		"surrogates":"🫦",
+		"unicodeVersion":14
 	},{
 		"names":["tooth"],
 		"surrogates":"🦷",
@@ -1844,10 +2364,6 @@
 		"surrogates":"👀",
 		"unicodeVersion":6
 	},{
-		"names":["brain"],
-		"surrogates":"🧠",
-		"unicodeVersion":10
-	},{
 		"names":["anatomical_heart"],
 		"surrogates":"🫀",
 		"unicodeVersion":13
@@ -1856,9 +2372,9 @@
 		"surrogates":"🫁",
 		"unicodeVersion":13
 	},{
-		"names":["bone"],
-		"surrogates":"🦴",
-		"unicodeVersion":11
+		"names":["brain"],
+		"surrogates":"🧠",
+		"unicodeVersion":10
 	},{
 		"names":["speaking_head","speaking_head_in_silhouette"],
 		"surrogates":"🗣️",
@@ -1912,42 +2428,6 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["girl"],
-		"surrogates":"👧",
-		"unicodeVersion":6,
-		"hasDiversity":true,
-		"diversityChildren":[{
-			"names":["girl_tone1"],
-			"surrogates":"👧🏻",
-			"unicodeVersion":8,
-			"diversity":["1f3fb"],
-			"hasDiversityParent":true
-		},{
-			"names":["girl_tone2"],
-			"surrogates":"👧🏼",
-			"unicodeVersion":8,
-			"diversity":["1f3fc"],
-			"hasDiversityParent":true
-		},{
-			"names":["girl_tone3"],
-			"surrogates":"👧🏽",
-			"unicodeVersion":8,
-			"diversity":["1f3fd"],
-			"hasDiversityParent":true
-		},{
-			"names":["girl_tone4"],
-			"surrogates":"👧🏾",
-			"unicodeVersion":8,
-			"diversity":["1f3fe"],
-			"hasDiversityParent":true
-		},{
-			"names":["girl_tone5"],
-			"surrogates":"👧🏿",
-			"unicodeVersion":8,
-			"diversity":["1f3ff"],
-			"hasDiversityParent":true
-		}]
-	},{
 		"names":["child"],
 		"surrogates":"🧒",
 		"unicodeVersion":10,
@@ -1980,6 +2460,42 @@
 			"names":["child_tone5","child_dark_skin_tone"],
 			"surrogates":"🧒🏿",
 			"unicodeVersion":10,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["girl"],
+		"surrogates":"👧",
+		"unicodeVersion":6,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["girl_tone1"],
+			"surrogates":"👧🏻",
+			"unicodeVersion":8,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["girl_tone2"],
+			"surrogates":"👧🏼",
+			"unicodeVersion":8,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["girl_tone3"],
+			"surrogates":"👧🏽",
+			"unicodeVersion":8,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["girl_tone4"],
+			"surrogates":"👧🏾",
+			"unicodeVersion":8,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["girl_tone5"],
+			"surrogates":"👧🏿",
+			"unicodeVersion":8,
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
 		}]
@@ -2020,6 +2536,42 @@
 			"hasDiversityParent":true
 		}]
 	},{
+		"names":["adult","person"],
+		"surrogates":"🧑",
+		"unicodeVersion":10,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["adult_tone1","adult_light_skin_tone"],
+			"surrogates":"🧑🏻",
+			"unicodeVersion":10,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["adult_tone2","adult_medium_light_skin_tone"],
+			"surrogates":"🧑🏼",
+			"unicodeVersion":10,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["adult_tone3","adult_medium_skin_tone"],
+			"surrogates":"🧑🏽",
+			"unicodeVersion":10,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["adult_tone4","adult_medium_dark_skin_tone"],
+			"surrogates":"🧑🏾",
+			"unicodeVersion":10,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["adult_tone5","adult_dark_skin_tone"],
+			"surrogates":"🧑🏿",
+			"unicodeVersion":10,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
 		"names":["woman"],
 		"surrogates":"👩",
 		"unicodeVersion":6,
@@ -2052,42 +2604,6 @@
 			"names":["woman_tone5"],
 			"surrogates":"👩🏿",
 			"unicodeVersion":8,
-			"diversity":["1f3ff"],
-			"hasDiversityParent":true
-		}]
-	},{
-		"names":["adult"],
-		"surrogates":"🧑",
-		"unicodeVersion":10,
-		"hasDiversity":true,
-		"diversityChildren":[{
-			"names":["adult_tone1","adult_light_skin_tone"],
-			"surrogates":"🧑🏻",
-			"unicodeVersion":10,
-			"diversity":["1f3fb"],
-			"hasDiversityParent":true
-		},{
-			"names":["adult_tone2","adult_medium_light_skin_tone"],
-			"surrogates":"🧑🏼",
-			"unicodeVersion":10,
-			"diversity":["1f3fc"],
-			"hasDiversityParent":true
-		},{
-			"names":["adult_tone3","adult_medium_skin_tone"],
-			"surrogates":"🧑🏽",
-			"unicodeVersion":10,
-			"diversity":["1f3fd"],
-			"hasDiversityParent":true
-		},{
-			"names":["adult_tone4","adult_medium_dark_skin_tone"],
-			"surrogates":"🧑🏾",
-			"unicodeVersion":10,
-			"diversity":["1f3fe"],
-			"hasDiversityParent":true
-		},{
-			"names":["adult_tone5","adult_dark_skin_tone"],
-			"surrogates":"🧑🏿",
-			"unicodeVersion":10,
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
 		}]
@@ -2308,7 +2824,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["man_red_haired"],
+		"names":["man_red_haired","man_red_hair"],
 		"surrogates":"👨‍🦰",
 		"unicodeVersion":11,
 		"hasDiversity":true,
@@ -2344,42 +2860,6 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["blond_haired_woman"],
-		"surrogates":"👱‍♀️",
-		"unicodeVersion":6,
-		"hasDiversity":true,
-		"diversityChildren":[{
-			"names":["blond_haired_woman_tone1","blond_haired_woman_light_skin_tone"],
-			"surrogates":"👱🏻‍♀️",
-			"unicodeVersion":8,
-			"diversity":["1f3fb"],
-			"hasDiversityParent":true
-		},{
-			"names":["blond_haired_woman_tone2","blond_haired_woman_medium_light_skin_tone"],
-			"surrogates":"👱🏼‍♀️",
-			"unicodeVersion":8,
-			"diversity":["1f3fc"],
-			"hasDiversityParent":true
-		},{
-			"names":["blond_haired_woman_tone3","blond_haired_woman_medium_skin_tone"],
-			"surrogates":"👱🏽‍♀️",
-			"unicodeVersion":8,
-			"diversity":["1f3fd"],
-			"hasDiversityParent":true
-		},{
-			"names":["blond_haired_woman_tone4","blond_haired_woman_medium_dark_skin_tone"],
-			"surrogates":"👱🏾‍♀️",
-			"unicodeVersion":8,
-			"diversity":["1f3fe"],
-			"hasDiversityParent":true
-		},{
-			"names":["blond_haired_woman_tone5","blond_haired_woman_dark_skin_tone"],
-			"surrogates":"👱🏿‍♀️",
-			"unicodeVersion":8,
-			"diversity":["1f3ff"],
-			"hasDiversityParent":true
-		}]
-	},{
 		"names":["blond_haired_person","person_with_blond_hair"],
 		"surrogates":"👱",
 		"unicodeVersion":6,
@@ -2411,6 +2891,42 @@
 		},{
 			"names":["blond_haired_person_tone5","person_with_blond_hair_tone5"],
 			"surrogates":"👱🏿",
+			"unicodeVersion":8,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["blond_haired_woman"],
+		"surrogates":"👱‍♀️",
+		"unicodeVersion":6,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["blond_haired_woman_tone1","blond_haired_woman_light_skin_tone"],
+			"surrogates":"👱🏻‍♀️",
+			"unicodeVersion":8,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["blond_haired_woman_tone2","blond_haired_woman_medium_light_skin_tone"],
+			"surrogates":"👱🏼‍♀️",
+			"unicodeVersion":8,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["blond_haired_woman_tone3","blond_haired_woman_medium_skin_tone"],
+			"surrogates":"👱🏽‍♀️",
+			"unicodeVersion":8,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["blond_haired_woman_tone4","blond_haired_woman_medium_dark_skin_tone"],
+			"surrogates":"👱🏾‍♀️",
+			"unicodeVersion":8,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["blond_haired_woman_tone5","blond_haired_woman_dark_skin_tone"],
+			"surrogates":"👱🏿‍♀️",
 			"unicodeVersion":8,
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
@@ -2668,7 +3184,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["bearded_person"],
+		"names":["bearded_person","person_beard"],
 		"surrogates":"🧔",
 		"unicodeVersion":10,
 		"hasDiversity":true,
@@ -2700,42 +3216,6 @@
 			"names":["bearded_person_tone5","bearded_person_dark_skin_tone"],
 			"surrogates":"🧔🏿",
 			"unicodeVersion":10,
-			"diversity":["1f3ff"],
-			"hasDiversityParent":true
-		}]
-	},{
-		"names":["man_beard"],
-		"surrogates":"🧔‍♂️",
-		"unicodeVersion":13.1,
-		"hasDiversity":true,
-		"diversityChildren":[{
-			"names":["man_tone1_beard","man_light_skin_tone_beard"],
-			"surrogates":"🧔🏻‍♂️",
-			"unicodeVersion":13.1,
-			"diversity":["1f3fb"],
-			"hasDiversityParent":true
-		},{
-			"names":["man_tone2_beard","man_medium_light_skin_tone_beard"],
-			"surrogates":"🧔🏼‍♂️",
-			"unicodeVersion":13.1,
-			"diversity":["1f3fc"],
-			"hasDiversityParent":true
-		},{
-			"names":["man_tone3_beard","man_medium_skin_tone_beard"],
-			"surrogates":"🧔🏽‍♂️",
-			"unicodeVersion":13.1,
-			"diversity":["1f3fd"],
-			"hasDiversityParent":true
-		},{
-			"names":["man_tone4_beard","man_medium_dark_skin_tone_beard"],
-			"surrogates":"🧔🏾‍♂️",
-			"unicodeVersion":13.1,
-			"diversity":["1f3fe"],
-			"hasDiversityParent":true
-		},{
-			"names":["man_tone5_beard","man_dark_skin_tone_beard"],
-			"surrogates":"🧔🏿‍♂️",
-			"unicodeVersion":13.1,
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
 		}]
@@ -2776,43 +3256,43 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["older_woman","grandma"],
-		"surrogates":"👵",
-		"unicodeVersion":6,
+		"names":["man_beard"],
+		"surrogates":"🧔‍♂️",
+		"unicodeVersion":13.1,
 		"hasDiversity":true,
 		"diversityChildren":[{
-			"names":["older_woman_tone1","grandma_tone1"],
-			"surrogates":"👵🏻",
-			"unicodeVersion":8,
+			"names":["man_tone1_beard","man_light_skin_tone_beard"],
+			"surrogates":"🧔🏻‍♂️",
+			"unicodeVersion":13.1,
 			"diversity":["1f3fb"],
 			"hasDiversityParent":true
 		},{
-			"names":["older_woman_tone2","grandma_tone2"],
-			"surrogates":"👵🏼",
-			"unicodeVersion":8,
+			"names":["man_tone2_beard","man_medium_light_skin_tone_beard"],
+			"surrogates":"🧔🏼‍♂️",
+			"unicodeVersion":13.1,
 			"diversity":["1f3fc"],
 			"hasDiversityParent":true
 		},{
-			"names":["older_woman_tone3","grandma_tone3"],
-			"surrogates":"👵🏽",
-			"unicodeVersion":8,
+			"names":["man_tone3_beard","man_medium_skin_tone_beard"],
+			"surrogates":"🧔🏽‍♂️",
+			"unicodeVersion":13.1,
 			"diversity":["1f3fd"],
 			"hasDiversityParent":true
 		},{
-			"names":["older_woman_tone4","grandma_tone4"],
-			"surrogates":"👵🏾",
-			"unicodeVersion":8,
+			"names":["man_tone4_beard","man_medium_dark_skin_tone_beard"],
+			"surrogates":"🧔🏾‍♂️",
+			"unicodeVersion":13.1,
 			"diversity":["1f3fe"],
 			"hasDiversityParent":true
 		},{
-			"names":["older_woman_tone5","grandma_tone5"],
-			"surrogates":"👵🏿",
-			"unicodeVersion":8,
+			"names":["man_tone5_beard","man_dark_skin_tone_beard"],
+			"surrogates":"🧔🏿‍♂️",
+			"unicodeVersion":13.1,
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["older_adult"],
+		"names":["older_adult","older_person"],
 		"surrogates":"🧓",
 		"unicodeVersion":10,
 		"hasDiversity":true,
@@ -2848,7 +3328,43 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["older_man"],
+		"names":["older_woman","grandma","old_woman"],
+		"surrogates":"👵",
+		"unicodeVersion":6,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["older_woman_tone1","grandma_tone1"],
+			"surrogates":"👵🏻",
+			"unicodeVersion":8,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["older_woman_tone2","grandma_tone2"],
+			"surrogates":"👵🏼",
+			"unicodeVersion":8,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["older_woman_tone3","grandma_tone3"],
+			"surrogates":"👵🏽",
+			"unicodeVersion":8,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["older_woman_tone4","grandma_tone4"],
+			"surrogates":"👵🏾",
+			"unicodeVersion":8,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["older_woman_tone5","grandma_tone5"],
+			"surrogates":"👵🏿",
+			"unicodeVersion":8,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["older_man","old_man"],
 		"surrogates":"👴",
 		"unicodeVersion":6,
 		"hasDiversity":true,
@@ -5440,6 +5956,42 @@
 			"hasDiversityParent":true
 		}]
 	},{
+		"names":["person_with_crown"],
+		"surrogates":"🫅",
+		"unicodeVersion":14,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["person_with_crown_tone1","person_with_crown_light_skin_tone"],
+			"surrogates":"🫅🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_with_crown_tone2","person_with_crown_medium_light_skin_tone"],
+			"surrogates":"🫅🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_with_crown_tone3","person_with_crown_medium_skin_tone"],
+			"surrogates":"🫅🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_with_crown_tone4","person_with_crown_medium_dark_skin_tone"],
+			"surrogates":"🫅🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_with_crown_tone5","person_with_crown_dark_skin_tone"],
+			"surrogates":"🫅🏿",
+			"unicodeVersion":14,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
 		"names":["princess"],
 		"surrogates":"👸",
 		"unicodeVersion":6,
@@ -5836,7 +6388,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["santa"],
+		"names":["santa","santa_claus"],
 		"surrogates":"🎅",
 		"unicodeVersion":6,
 		"hasDiversity":true,
@@ -6087,6 +6639,10 @@
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
 		}]
+	},{
+		"names":["troll"],
+		"surrogates":"🧌",
+		"unicodeVersion":14
 	},{
 		"names":["vampire"],
 		"surrogates":"🧛",
@@ -6436,7 +6992,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["angel"],
+		"names":["angel","baby_angel"],
 		"surrogates":"👼",
 		"unicodeVersion":6,
 		"hasDiversity":true,
@@ -6468,6 +7024,42 @@
 			"names":["angel_tone5"],
 			"surrogates":"👼🏿",
 			"unicodeVersion":8,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["pregnant_person"],
+		"surrogates":"🫄",
+		"unicodeVersion":14,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["pregnant_person_tone1","pregnant_person_light_skin_tone"],
+			"surrogates":"🫄🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["pregnant_person_tone2","pregnant_person_medium_light_skin_tone"],
+			"surrogates":"🫄🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["pregnant_person_tone3","pregnant_person_medium_skin_tone"],
+			"surrogates":"🫄🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["pregnant_person_tone4","pregnant_person_medium_dark_skin_tone"],
+			"surrogates":"🫄🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["pregnant_person_tone5","pregnant_person_dark_skin_tone"],
+			"surrogates":"🫄🏿",
+			"unicodeVersion":14,
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
 		}]
@@ -6504,6 +7096,42 @@
 			"names":["pregnant_woman_tone5","expecting_woman_tone5"],
 			"surrogates":"🤰🏿",
 			"unicodeVersion":9,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["pregnant_man"],
+		"surrogates":"🫃",
+		"unicodeVersion":14,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["pregnant_man_tone1","pregnant_man_light_skin_tone"],
+			"surrogates":"🫃🏻",
+			"unicodeVersion":14,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["pregnant_man_tone2","pregnant_man_medium_light_skin_tone"],
+			"surrogates":"🫃🏼",
+			"unicodeVersion":14,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["pregnant_man_tone3","pregnant_man_medium_skin_tone"],
+			"surrogates":"🫃🏽",
+			"unicodeVersion":14,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["pregnant_man_tone4","pregnant_man_medium_dark_skin_tone"],
+			"surrogates":"🫃🏾",
+			"unicodeVersion":14,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["pregnant_man_tone5","pregnant_man_dark_skin_tone"],
+			"surrogates":"🫃🏿",
+			"unicodeVersion":14,
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
 		}]
@@ -6976,36 +7604,36 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["person_gesturing_ok","ok_woman"],
+		"names":["person_gesturing_ok"],
 		"surrogates":"🙆",
 		"unicodeVersion":6,
 		"hasDiversity":true,
 		"diversityChildren":[{
-			"names":["person_gesturing_ok_tone1","ok_woman_tone1"],
+			"names":["person_gesturing_ok_tone1"],
 			"surrogates":"🙆🏻",
 			"unicodeVersion":8,
 			"diversity":["1f3fb"],
 			"hasDiversityParent":true
 		},{
-			"names":["person_gesturing_ok_tone2","ok_woman_tone2"],
+			"names":["person_gesturing_ok_tone2"],
 			"surrogates":"🙆🏼",
 			"unicodeVersion":8,
 			"diversity":["1f3fc"],
 			"hasDiversityParent":true
 		},{
-			"names":["person_gesturing_ok_tone3","ok_woman_tone3"],
+			"names":["person_gesturing_ok_tone3"],
 			"surrogates":"🙆🏽",
 			"unicodeVersion":8,
 			"diversity":["1f3fd"],
 			"hasDiversityParent":true
 		},{
-			"names":["person_gesturing_ok_tone4","ok_woman_tone4"],
+			"names":["person_gesturing_ok_tone4"],
 			"surrogates":"🙆🏾",
 			"unicodeVersion":8,
 			"diversity":["1f3fe"],
 			"hasDiversityParent":true
 		},{
-			"names":["person_gesturing_ok_tone5","ok_woman_tone5"],
+			"names":["person_gesturing_ok_tone5"],
 			"surrogates":"🙆🏿",
 			"unicodeVersion":8,
 			"diversity":["1f3ff"],
@@ -8056,7 +8684,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["nail_care"],
+		"names":["nail_care","nail_polish"],
 		"surrogates":"💅",
 		"unicodeVersion":6,
 		"hasDiversity":true,
@@ -8128,7 +8756,7 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["dancer"],
+		"names":["dancer","woman_dancing"],
 		"surrogates":"💃",
 		"unicodeVersion":6,
 		"hasDiversity":true,
@@ -8356,6 +8984,114 @@
 			"hasDiversityParent":true
 		}]
 	},{
+		"names":["person_in_manual_wheelchair_facing_right"],
+		"surrogates":"🧑‍🦽‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["person_in_manual_wheelchair_facing_right_tone1","person_in_manual_wheelchair_facing_right_light_skin_tone"],
+			"surrogates":"🧑🏻‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_in_manual_wheelchair_facing_right_tone2","person_in_manual_wheelchair_facing_right_medium_light_skin_tone"],
+			"surrogates":"🧑🏼‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_in_manual_wheelchair_facing_right_tone3","person_in_manual_wheelchair_facing_right_medium_skin_tone"],
+			"surrogates":"🧑🏽‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_in_manual_wheelchair_facing_right_tone4","person_in_manual_wheelchair_facing_right_medium_dark_skin_tone"],
+			"surrogates":"🧑🏾‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_in_manual_wheelchair_facing_right_tone5","person_in_manual_wheelchair_facing_right_dark_skin_tone"],
+			"surrogates":"🧑🏿‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["man_in_manual_wheelchair_facing_right"],
+		"surrogates":"👨‍🦽‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["man_in_manual_wheelchair_facing_right_tone2","man_in_manual_wheelchair_facing_right_medium_light_skin_tone"],
+			"surrogates":"👨🏼‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_in_manual_wheelchair_facing_right_tone1","man_in_manual_wheelchair_facing_right_light_skin_tone"],
+			"surrogates":"👨🏻‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_in_manual_wheelchair_facing_right_tone3","man_in_manual_wheelchair_facing_right_medium_skin_tone"],
+			"surrogates":"👨🏽‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_in_manual_wheelchair_facing_right_tone4","man_in_manual_wheelchair_facing_right_medium_dark_skin_tone"],
+			"surrogates":"👨🏾‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_in_manual_wheelchair_facing_right_tone5","man_in_manual_wheelchair_facing_right_dark_skin_tone"],
+			"surrogates":"👨🏿‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["woman_in_manual_wheelchair_facing_right"],
+		"surrogates":"👩‍🦽‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["woman_in_manual_wheelchair_facing_right_tone1","woman_in_manual_wheelchair_facing_right_light_skin_tone"],
+			"surrogates":"👩🏻‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_in_manual_wheelchair_facing_right_tone2","woman_in_manual_wheelchair_facing_right_medium_light_skin_tone"],
+			"surrogates":"👩🏼‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_in_manual_wheelchair_facing_right_tone3","woman_in_manual_wheelchair_facing_right_medium_skin_tone"],
+			"surrogates":"👩🏽‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_in_manual_wheelchair_facing_right_tone4","woman_in_manual_wheelchair_facing_right_medium_dark_skin_tone"],
+			"surrogates":"👩🏾‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_in_manual_wheelchair_facing_right_tone5","woman_in_manual_wheelchair_facing_right_dark_skin_tone"],
+			"surrogates":"👩🏿‍🦽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
 		"names":["person_in_motorized_wheelchair"],
 		"surrogates":"🧑‍🦼",
 		"unicodeVersion":12.1,
@@ -8460,6 +9196,114 @@
 			"names":["man_in_motorized_wheelchair_tone5","man_in_motorized_wheelchair_dark_skin_tone"],
 			"surrogates":"👨🏿‍🦼",
 			"unicodeVersion":12,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["person_in_motorized_wheelchair_facing_right"],
+		"surrogates":"🧑‍🦼‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["person_in_motorized_wheelchair_facing_right_tone1","person_in_motorized_wheelchair_facing_right_light_skin_tone"],
+			"surrogates":"🧑🏻‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_in_motorized_wheelchair_facing_right_tone2","person_in_motorized_wheelchair_facing_right_medium_light_skin_tone"],
+			"surrogates":"🧑🏼‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_in_motorized_wheelchair_facing_right_tone3","person_in_motorized_wheelchair_facing_right_medium_skin_tone"],
+			"surrogates":"🧑🏽‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_in_motorized_wheelchair_facing_right_tone4","person_in_motorized_wheelchair_facing_right_medium_dark_skin_tone"],
+			"surrogates":"🧑🏾‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_in_motorized_wheelchair_facing_right_tone5","person_in_motorized_wheelchair_facing_right_dark_skin_tone"],
+			"surrogates":"🧑🏿‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["man_in_motorized_wheelchair_facing_right"],
+		"surrogates":"👨‍🦼‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["man_in_motorized_wheelchair_facing_right_tone1","man_in_motorized_wheelchair_facing_right_light_skin_tone"],
+			"surrogates":"👨🏻‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_in_motorized_wheelchair_facing_right_tone2","man_in_motorized_wheelchair_facing_right_medium_light_skin_tone"],
+			"surrogates":"👨🏼‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_in_motorized_wheelchair_facing_right_tone3","man_in_motorized_wheelchair_facing_right_medium_skin_tone"],
+			"surrogates":"👨🏽‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_in_motorized_wheelchair_facing_right_tone4","man_in_motorized_wheelchair_facing_right_medium_dark_skin_tone"],
+			"surrogates":"👨🏾‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_in_motorized_wheelchair_facing_right_tone5","man_in_motorized_wheelchair_facing_right_dark_skin_tone"],
+			"surrogates":"👨🏿‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["woman_in_motorized_wheelchair_facing_right"],
+		"surrogates":"👩‍🦼‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["woman_in_motorized_wheelchair_facing_right_tone1","woman_in_motorized_wheelchair_facing_right_light_skin_tone"],
+			"surrogates":"👩🏻‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_in_motorized_wheelchair_facing_right_tone2","woman_in_motorized_wheelchair_facing_right_medium_light_skin_tone"],
+			"surrogates":"👩🏼‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_in_motorized_wheelchair_facing_right_tone3","woman_in_motorized_wheelchair_facing_right_medium_skin_tone"],
+			"surrogates":"👩🏽‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_in_motorized_wheelchair_facing_right_tone4","woman_in_motorized_wheelchair_facing_right_medium_dark_skin_tone"],
+			"surrogates":"👩🏾‍🦼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_in_motorized_wheelchair_facing_right_tone5","woman_in_motorized_wheelchair_facing_right_dark_skin_tone"],
+			"surrogates":"👩🏿‍🦼‍➡️",
+			"unicodeVersion":15.1,
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
 		}]
@@ -8572,6 +9416,114 @@
 			"hasDiversityParent":true
 		}]
 	},{
+		"names":["person_walking_facing_right"],
+		"surrogates":"🚶‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["person_walking_facing_right_tone1","person_walking_facing_right_light_skin_tone"],
+			"surrogates":"🚶🏻‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_walking_facing_right_tone2","person_walking_facing_right_medium_light_skin_tone"],
+			"surrogates":"🚶🏼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_walking_facing_right_tone3","person_walking_facing_right_medium_skin_tone"],
+			"surrogates":"🚶🏽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_walking_facing_right_tone4","person_walking_facing_right_medium_dark_skin_tone"],
+			"surrogates":"🚶🏾‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_walking_facing_right_tone5","person_walking_facing_right_dark_skin_tone"],
+			"surrogates":"🚶🏿‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["woman_walking_facing_right"],
+		"surrogates":"🚶‍♀️‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["woman_walking_facing_right_tone1","woman_walking_facing_right_light_skin_tone"],
+			"surrogates":"🚶🏻‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_walking_facing_right_tone2","woman_walking_facing_right_medium_light_skin_tone"],
+			"surrogates":"🚶🏼‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_walking_facing_right_tone3","woman_walking_facing_right_medium_skin_tone"],
+			"surrogates":"🚶🏽‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_walking_facing_right_tone4","woman_walking_facing_right_medium_dark_skin_tone"],
+			"surrogates":"🚶🏾‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_walking_facing_right_tone5","woman_walking_facing_right_dark_skin_tone"],
+			"surrogates":"🚶🏿‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["man_walking_facing_right"],
+		"surrogates":"🚶‍♂️‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["man_walking_facing_right_tone1","man_walking_facing_right_light_skin_tone"],
+			"surrogates":"🚶🏻‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_walking_facing_right_tone2","man_walking_facing_right_medium_light_skin_tone"],
+			"surrogates":"🚶🏼‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_walking_facing_right_tone3","man_walking_facing_right_medium_skin_tone"],
+			"surrogates":"🚶🏽‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_walking_facing_right_tone4","man_walking_facing_right_medium_dark_skin_tone"],
+			"surrogates":"🚶🏾‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_walking_facing_right_tone5","man_walking_facing_right_dark_skin_tone"],
+			"surrogates":"🚶🏿‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
 		"names":["person_with_probing_cane"],
 		"surrogates":"🧑‍🦯",
 		"unicodeVersion":12.1,
@@ -8655,16 +9607,16 @@
 			"diversity":["1f3fb"],
 			"hasDiversityParent":true
 		},{
-			"names":["man_with_probing_cane_tone3","man_with_probing_cane_medium_skin_tone"],
-			"surrogates":"👨🏽‍🦯",
-			"unicodeVersion":12,
-			"diversity":["1f3fd"],
-			"hasDiversityParent":true
-		},{
 			"names":["man_with_probing_cane_tone2","man_with_probing_cane_medium_light_skin_tone"],
 			"surrogates":"👨🏼‍🦯",
 			"unicodeVersion":12,
 			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_with_probing_cane_tone3","man_with_probing_cane_medium_skin_tone"],
+			"surrogates":"👨🏽‍🦯",
+			"unicodeVersion":12,
+			"diversity":["1f3fd"],
 			"hasDiversityParent":true
 		},{
 			"names":["man_with_probing_cane_tone4","man_with_probing_cane_medium_dark_skin_tone"],
@@ -8676,6 +9628,114 @@
 			"names":["man_with_probing_cane_tone5","man_with_probing_cane_dark_skin_tone"],
 			"surrogates":"👨🏿‍🦯",
 			"unicodeVersion":12,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["person_with_white_cane_facing_right"],
+		"surrogates":"🧑‍🦯‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["person_with_white_cane_facing_right_tone1","person_with_white_cane_facing_right_light_skin_tone"],
+			"surrogates":"🧑🏻‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_with_white_cane_facing_right_tone2","person_with_white_cane_facing_right_medium_light_skin_tone"],
+			"surrogates":"🧑🏼‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_with_white_cane_facing_right_tone3","person_with_white_cane_facing_right_medium_skin_tone"],
+			"surrogates":"🧑🏽‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_with_white_cane_facing_right_tone4","person_with_white_cane_facing_right_medium_dark_skin_tone"],
+			"surrogates":"🧑🏾‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_with_white_cane_facing_right_tone5","person_with_white_cane_facing_right_dark_skin_tone"],
+			"surrogates":"🧑🏿‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["man_with_white_cane_facing_right"],
+		"surrogates":"👨‍🦯‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["man_with_white_cane_facing_right_tone1","man_with_white_cane_facing_right_light_skin_tone"],
+			"surrogates":"👨🏻‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_with_white_cane_facing_right_tone2","man_with_white_cane_facing_right_medium_light_skin_tone"],
+			"surrogates":"👨🏼‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_with_white_cane_facing_right_tone3","man_with_white_cane_facing_right_medium_skin_tone"],
+			"surrogates":"👨🏽‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_with_white_cane_facing_right_tone4","man_with_white_cane_facing_right_medium_dark_skin_tone"],
+			"surrogates":"👨🏾‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_with_white_cane_facing_right_tone5","man_with_white_cane_facing_right_dark_skin_tone"],
+			"surrogates":"👨🏿‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["woman_with_white_cane_facing_right"],
+		"surrogates":"👩‍🦯‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["woman_with_white_cane_facing_right_tone1","woman_with_white_cane_facing_right_light_skin_tone"],
+			"surrogates":"👩🏻‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_with_white_cane_facing_right_tone2","woman_with_white_cane_facing_right_medium_light_skin_tone"],
+			"surrogates":"👩🏼‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_with_white_cane_facing_right_tone3","woman_with_white_cane_facing_right_medium_skin_tone"],
+			"surrogates":"👩🏽‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_with_white_cane_facing_right_tone4","woman_with_white_cane_facing_right_medium_dark_skin_tone"],
+			"surrogates":"👩🏾‍🦯‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_with_white_cane_facing_right_tone5","woman_with_white_cane_facing_right_dark_skin_tone"],
+			"surrogates":"👩🏿‍🦯‍➡️",
+			"unicodeVersion":15.1,
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
 		}]
@@ -8788,6 +9848,114 @@
 			"hasDiversityParent":true
 		}]
 	},{
+		"names":["person_kneeling_facing_right"],
+		"surrogates":"🧎‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["person_kneeling_facing_right_tone1","person_kneeling_facing_right_light_skin_tone"],
+			"surrogates":"🧎🏻‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_kneeling_facing_right_tone2","person_kneeling_facing_right_medium_light_skin_tone"],
+			"surrogates":"🧎🏼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_kneeling_facing_right_tone3","person_kneeling_facing_right_medium_skin_tone"],
+			"surrogates":"🧎🏽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_kneeling_facing_right_tone4","person_kneeling_facing_right_medium_dark_skin_tone"],
+			"surrogates":"🧎🏾‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_kneeling_facing_right_tone5","person_kneeling_facing_right_dark_skin_tone"],
+			"surrogates":"🧎🏿‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["woman_kneeling_facing_right"],
+		"surrogates":"🧎‍♀️‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["woman_kneeling_facing_right_tone1","woman_kneeling_facing_right_light_skin_tone"],
+			"surrogates":"🧎🏻‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_kneeling_facing_right_tone2","woman_kneeling_facing_right_medium_light_skin_tone"],
+			"surrogates":"🧎🏼‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_kneeling_facing_right_tone3","woman_kneeling_facing_right_medium_skin_tone"],
+			"surrogates":"🧎🏽‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_kneeling_facing_right_tone4","woman_kneeling_facing_right_medium_dark_skin_tone"],
+			"surrogates":"🧎🏾‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_kneeling_facing_right_tone5","woman_kneeling_facing_right_dark_skin_tone"],
+			"surrogates":"🧎🏿‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["man_kneeling_facing_right"],
+		"surrogates":"🧎‍♂️‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["man_kneeling_facing_right_tone1","man_kneeling_facing_right_light_skin_tone"],
+			"surrogates":"🧎🏻‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_kneeling_facing_right_tone2","man_kneeling_facing_right_medium_light_skin_tone"],
+			"surrogates":"🧎🏼‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_kneeling_facing_right_tone3","man_kneeling_facing_right_medium_skin_tone"],
+			"surrogates":"🧎🏽‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_kneeling_facing_right_tone4","man_kneeling_facing_right_medium_dark_skin_tone"],
+			"surrogates":"🧎🏾‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_kneeling_facing_right_tone5","man_kneeling_facing_right_dark_skin_tone"],
+			"surrogates":"🧎🏿‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
 		"names":["person_running","runner"],
 		"surrogates":"🏃",
 		"unicodeVersion":6,
@@ -8892,6 +10060,114 @@
 			"names":["man_running_tone5","man_running_dark_skin_tone"],
 			"surrogates":"🏃🏿‍♂️",
 			"unicodeVersion":8,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["person_running_facing_right"],
+		"surrogates":"🏃‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["person_running_facing_right_tone1","person_running_facing_right_light_skin_tone"],
+			"surrogates":"🏃🏻‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_running_facing_right_tone2","person_running_facing_right_medium_light_skin_tone"],
+			"surrogates":"🏃🏼‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_running_facing_right_tone3","person_running_facing_right_medium_skin_tone"],
+			"surrogates":"🏃🏽‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_running_facing_right_tone4","person_running_facing_right_medium_dark_skin_tone"],
+			"surrogates":"🏃🏾‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["person_running_facing_right_tone5","person_running_facing_right_dark_skin_tone"],
+			"surrogates":"🏃🏿‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["woman_running_facing_right"],
+		"surrogates":"🏃‍♀️‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["woman_running_facing_right_tone1","woman_running_facing_right_light_skin_tone"],
+			"surrogates":"🏃🏻‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_running_facing_right_tone2","woman_running_facing_right_medium_light_skin_tone"],
+			"surrogates":"🏃🏼‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_running_facing_right_tone3","woman_running_facing_right_medium_skin_tone"],
+			"surrogates":"🏃🏽‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_running_facing_right_tone4","woman_running_facing_right_medium_dark_skin_tone"],
+			"surrogates":"🏃🏾‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["woman_running_facing_right_tone5","woman_running_facing_right_dark_skin_tone"],
+			"surrogates":"🏃🏿‍♀️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3ff"],
+			"hasDiversityParent":true
+		}]
+	},{
+		"names":["man_running_facing_right"],
+		"surrogates":"🏃‍♂️‍➡️",
+		"unicodeVersion":15.1,
+		"hasDiversity":true,
+		"diversityChildren":[{
+			"names":["man_running_facing_right_tone1","man_running_facing_right_light_skin_tone"],
+			"surrogates":"🏃🏻‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fb"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_running_facing_right_tone2","man_running_facing_right_medium_light_skin_tone"],
+			"surrogates":"🏃🏼‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fc"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_running_facing_right_tone3","man_running_facing_right_medium_skin_tone"],
+			"surrogates":"🏃🏽‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fd"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_running_facing_right_tone4","man_running_facing_right_medium_dark_skin_tone"],
+			"surrogates":"🏃🏾‍♂️‍➡️",
+			"unicodeVersion":15.1,
+			"diversity":["1f3fe"],
+			"hasDiversityParent":true
+		},{
+			"names":["man_running_facing_right_tone5","man_running_facing_right_dark_skin_tone"],
+			"surrogates":"🏃🏿‍♂️‍➡️",
+			"unicodeVersion":15.1,
 			"diversity":["1f3ff"],
 			"hasDiversityParent":true
 		}]
@@ -10256,12 +11532,6 @@
 		"surrogates":"💏",
 		"unicodeVersion":6,
 		"diversityChildren":[{
-			"names":["kiss_person_person_tone5_tone4","kiss_person_person_dark_skin_tone_medium_dark_skin_tone"],
-			"surrogates":"🧑🏿‍❤️‍💋‍🧑🏾",
-			"unicodeVersion":13.1,
-			"diversity":["1f3ff","1f3fe"],
-			"hasMultiDiversityParent":true
-		},{
 			"names":["kiss_tone1","kiss_light_skin_tone"],
 			"surrogates":"💏🏻",
 			"unicodeVersion":13.1,
@@ -10398,6 +11668,12 @@
 			"surrogates":"🧑🏿‍❤️‍💋‍🧑🏽",
 			"unicodeVersion":13.1,
 			"diversity":["1f3ff","1f3fd"],
+			"hasMultiDiversityParent":true
+		},{
+			"names":["kiss_person_person_tone5_tone4","kiss_person_person_dark_skin_tone_medium_dark_skin_tone"],
+			"surrogates":"🧑🏿‍❤️‍💋‍🧑🏾",
+			"unicodeVersion":13.1,
+			"diversity":["1f3ff","1f3fe"],
 			"hasMultiDiversityParent":true
 		},{
 			"names":["kiss_tone5","kiss_dark_skin_tone"],
@@ -10720,7 +11996,7 @@
 		}],
 		"hasMultiDiversity":true
 	},{
-		"names":["kiss_mm","couplekiss_mm"],
+		"names":["kiss_mm","couplekiss_mm","kiss_man_man"],
 		"surrogates":"👨‍❤️‍💋‍👨",
 		"unicodeVersion":6,
 		"diversityChildren":[{
@@ -10876,6 +12152,22 @@
 		}],
 		"hasMultiDiversity":true
 	},{
+		"names":["family_adult_adult_child_child"],
+		"surrogates":"🧑‍🧑‍🧒‍🧒",
+		"unicodeVersion":15.1
+	},{
+		"names":["family_adult_adult_child"],
+		"surrogates":"🧑‍🧑‍🧒",
+		"unicodeVersion":15.1
+	},{
+		"names":["family_adult_child_child"],
+		"surrogates":"🧑‍🧒‍🧒",
+		"unicodeVersion":15.1
+	},{
+		"names":["family_adult_child"],
+		"surrogates":"🧑‍🧒",
+		"unicodeVersion":15.1
+	},{
 		"names":["family"],
 		"surrogates":"👪",
 		"unicodeVersion":6
@@ -10980,6 +12272,10 @@
 		"surrogates":"👨‍👧‍👧",
 		"unicodeVersion":6
 	},{
+		"names":["knot"],
+		"surrogates":"🪢",
+		"unicodeVersion":13
+	},{
 		"names":["yarn"],
 		"surrogates":"🧶",
 		"unicodeVersion":11
@@ -10987,6 +12283,10 @@
 		"names":["thread"],
 		"surrogates":"🧵",
 		"unicodeVersion":11
+	},{
+		"names":["sewing_needle"],
+		"surrogates":"🪡",
+		"unicodeVersion":13
 	},{
 		"names":["coat"],
 		"surrogates":"🧥",
@@ -11004,7 +12304,7 @@
 		"surrogates":"👚",
 		"unicodeVersion":6
 	},{
-		"names":["shirt"],
+		"names":["shirt","t_shirt"],
 		"surrogates":"👕",
 		"unicodeVersion":6
 	},{
@@ -11044,7 +12344,11 @@
 		"surrogates":"🥻",
 		"unicodeVersion":12
 	},{
-		"names":["womans_flat_shoe"],
+		"names":["thong_sandal"],
+		"surrogates":"🩴",
+		"unicodeVersion":13
+	},{
+		"names":["womans_flat_shoe","flat_shoe"],
 		"surrogates":"🥿",
 		"unicodeVersion":11
 	},{
@@ -11052,11 +12356,11 @@
 		"surrogates":"👠",
 		"unicodeVersion":6
 	},{
-		"names":["sandal"],
+		"names":["sandal","womans_sandal"],
 		"surrogates":"👡",
 		"unicodeVersion":6
 	},{
-		"names":["boot"],
+		"names":["boot","womans_boot"],
 		"surrogates":"👢",
 		"unicodeVersion":6
 	},{
@@ -11064,17 +12368,13 @@
 		"surrogates":"👞",
 		"unicodeVersion":6
 	},{
-		"names":["athletic_shoe"],
+		"names":["athletic_shoe","running_shoe"],
 		"surrogates":"👟",
 		"unicodeVersion":6
 	},{
 		"names":["hiking_boot"],
 		"surrogates":"🥾",
 		"unicodeVersion":11
-	},{
-		"names":["thong_sandal"],
-		"surrogates":"🩴",
-		"unicodeVersion":13
 	},{
 		"names":["socks"],
 		"surrogates":"🧦",
@@ -11088,7 +12388,7 @@
 		"surrogates":"🧣",
 		"unicodeVersion":10
 	},{
-		"names":["tophat"],
+		"names":["tophat","top_hat"],
 		"surrogates":"🎩",
 		"unicodeVersion":6
 	},{
@@ -11120,7 +12420,7 @@
 		"surrogates":"💍",
 		"unicodeVersion":6
 	},{
-		"names":["pouch"],
+		"names":["pouch","clutch_bag"],
 		"surrogates":"👝",
 		"unicodeVersion":6
 	},{
@@ -11136,7 +12436,7 @@
 		"surrogates":"💼",
 		"unicodeVersion":6
 	},{
-		"names":["school_satchel"],
+		"names":["school_satchel","backpack"],
 		"surrogates":"🎒",
 		"unicodeVersion":6
 	},{
@@ -11144,7 +12444,7 @@
 		"surrogates":"🧳",
 		"unicodeVersion":11
 	},{
-		"names":["eyeglasses"],
+		"names":["eyeglasses","glasses"],
 		"surrogates":"👓",
 		"unicodeVersion":6
 	},{
@@ -11161,15 +12461,15 @@
 		"unicodeVersion":6
 	}],
 	"nature":[{
-		"names":["dog"],
+		"names":["dog","dog_face"],
 		"surrogates":"🐶",
 		"unicodeVersion":6
 	},{
-		"names":["cat"],
+		"names":["cat","cat_face"],
 		"surrogates":"🐱",
 		"unicodeVersion":6
 	},{
-		"names":["mouse"],
+		"names":["mouse","mouse_face"],
 		"surrogates":"🐭",
 		"unicodeVersion":6
 	},{
@@ -11177,7 +12477,7 @@
 		"surrogates":"🐹",
 		"unicodeVersion":6
 	},{
-		"names":["rabbit"],
+		"names":["rabbit","rabbit_face"],
 		"surrogates":"🐰",
 		"unicodeVersion":6
 	},{
@@ -11189,7 +12489,7 @@
 		"surrogates":"🐻",
 		"unicodeVersion":6
 	},{
-		"names":["panda_face"],
+		"names":["panda_face","panda"],
 		"surrogates":"🐼",
 		"unicodeVersion":6
 	},{
@@ -11201,7 +12501,7 @@
 		"surrogates":"🐨",
 		"unicodeVersion":6
 	},{
-		"names":["tiger"],
+		"names":["tiger","tiger_face"],
 		"surrogates":"🐯",
 		"unicodeVersion":6
 	},{
@@ -11209,11 +12509,11 @@
 		"surrogates":"🦁",
 		"unicodeVersion":8
 	},{
-		"names":["cow"],
+		"names":["cow","cow_face"],
 		"surrogates":"🐮",
 		"unicodeVersion":6
 	},{
-		"names":["pig"],
+		"names":["pig","pig_face"],
 		"surrogates":"🐷",
 		"unicodeVersion":6
 	},{
@@ -11269,13 +12569,17 @@
 		"surrogates":"🐥",
 		"unicodeVersion":6
 	},{
+		"names":["goose"],
+		"surrogates":"🪿",
+		"unicodeVersion":15
+	},{
 		"names":["duck"],
 		"surrogates":"🦆",
 		"unicodeVersion":9
 	},{
-		"names":["dodo"],
-		"surrogates":"🦤",
-		"unicodeVersion":13
+		"names":["black_bird"],
+		"surrogates":"🐦‍⬛",
+		"unicodeVersion":15
 	},{
 		"names":["eagle"],
 		"surrogates":"🦅",
@@ -11297,7 +12601,7 @@
 		"surrogates":"🐗",
 		"unicodeVersion":6
 	},{
-		"names":["horse"],
+		"names":["horse","horse_face"],
 		"surrogates":"🐴",
 		"unicodeVersion":6
 	},{
@@ -11305,9 +12609,17 @@
 		"surrogates":"🦄",
 		"unicodeVersion":8
 	},{
-		"names":["bee"],
+		"names":["moose"],
+		"surrogates":"🫎",
+		"unicodeVersion":15
+	},{
+		"names":["bee","honeybee"],
 		"surrogates":"🐝",
 		"unicodeVersion":6
+	},{
+		"names":["worm"],
+		"surrogates":"🪱",
+		"unicodeVersion":13
 	},{
 		"names":["bug"],
 		"surrogates":"🐛",
@@ -11321,10 +12633,6 @@
 		"surrogates":"🐌",
 		"unicodeVersion":6
 	},{
-		"names":["worm"],
-		"surrogates":"🪱",
-		"unicodeVersion":13
-	},{
 		"names":["lady_beetle"],
 		"surrogates":"🐞",
 		"unicodeVersion":6
@@ -11337,17 +12645,17 @@
 		"surrogates":"🪰",
 		"unicodeVersion":13
 	},{
-		"names":["mosquito"],
-		"surrogates":"🦟",
-		"unicodeVersion":11
+		"names":["beetle"],
+		"surrogates":"🪲",
+		"unicodeVersion":13
 	},{
 		"names":["cockroach"],
 		"surrogates":"🪳",
 		"unicodeVersion":13
 	},{
-		"names":["beetle"],
-		"surrogates":"🪲",
-		"unicodeVersion":13
+		"names":["mosquito"],
+		"surrogates":"🦟",
+		"unicodeVersion":11
 	},{
 		"names":["cricket"],
 		"surrogates":"🦗",
@@ -11393,6 +12701,10 @@
 		"surrogates":"🦑",
 		"unicodeVersion":9
 	},{
+		"names":["jellyfish"],
+		"surrogates":"🪼",
+		"unicodeVersion":15
+	},{
 		"names":["shrimp"],
 		"surrogates":"🦐",
 		"unicodeVersion":9
@@ -11417,10 +12729,6 @@
 		"surrogates":"🐟",
 		"unicodeVersion":6
 	},{
-		"names":["seal"],
-		"surrogates":"🦭",
-		"unicodeVersion":13
-	},{
 		"names":["dolphin"],
 		"surrogates":"🐬",
 		"unicodeVersion":6
@@ -11436,6 +12744,10 @@
 		"names":["shark"],
 		"surrogates":"🦈",
 		"unicodeVersion":9
+	},{
+		"names":["seal"],
+		"surrogates":"🦭",
+		"unicodeVersion":13
 	},{
 		"names":["crocodile"],
 		"surrogates":"🐊",
@@ -11461,17 +12773,13 @@
 		"surrogates":"🦧",
 		"unicodeVersion":12
 	},{
-		"names":["elephant"],
-		"surrogates":"🐘",
-		"unicodeVersion":6
-	},{
 		"names":["mammoth"],
 		"surrogates":"🦣",
 		"unicodeVersion":13
 	},{
-		"names":["bison"],
-		"surrogates":"🦬",
-		"unicodeVersion":13
+		"names":["elephant"],
+		"surrogates":"🐘",
+		"unicodeVersion":6
 	},{
 		"names":["hippopotamus"],
 		"surrogates":"🦛",
@@ -11497,6 +12805,10 @@
 		"surrogates":"🦘",
 		"unicodeVersion":11
 	},{
+		"names":["bison"],
+		"surrogates":"🦬",
+		"unicodeVersion":13
+	},{
 		"names":["water_buffalo"],
 		"surrogates":"🐃",
 		"unicodeVersion":6
@@ -11508,6 +12820,10 @@
 		"names":["cow2"],
 		"surrogates":"🐄",
 		"unicodeVersion":6
+	},{
+		"names":["donkey"],
+		"surrogates":"🫏",
+		"unicodeVersion":15
 	},{
 		"names":["racehorse"],
 		"surrogates":"🐎",
@@ -11521,7 +12837,7 @@
 		"surrogates":"🐏",
 		"unicodeVersion":6
 	},{
-		"names":["sheep"],
+		"names":["sheep","ewe"],
 		"surrogates":"🐑",
 		"unicodeVersion":6
 	},{
@@ -11561,6 +12877,14 @@
 		"surrogates":"🐈‍⬛",
 		"unicodeVersion":13
 	},{
+		"names":["feather"],
+		"surrogates":"🪶",
+		"unicodeVersion":13
+	},{
+		"names":["wing"],
+		"surrogates":"🪽",
+		"unicodeVersion":15
+	},{
 		"names":["rooster"],
 		"surrogates":"🐓",
 		"unicodeVersion":6
@@ -11568,6 +12892,10 @@
 		"names":["turkey"],
 		"surrogates":"🦃",
 		"unicodeVersion":8
+	},{
+		"names":["dodo"],
+		"surrogates":"🦤",
+		"unicodeVersion":13
 	},{
 		"names":["peacock"],
 		"surrogates":"🦚",
@@ -11645,6 +12973,10 @@
 		"surrogates":"🐲",
 		"unicodeVersion":6
 	},{
+		"names":["phoenix"],
+		"surrogates":"🐦‍🔥",
+		"unicodeVersion":15.1
+	},{
 		"names":["cactus"],
 		"surrogates":"🌵",
 		"unicodeVersion":6
@@ -11664,6 +12996,10 @@
 		"names":["palm_tree"],
 		"surrogates":"🌴",
 		"unicodeVersion":6
+	},{
+		"names":["wood"],
+		"surrogates":"🪵",
+		"unicodeVersion":13
 	},{
 		"names":["seedling"],
 		"surrogates":"🌱",
@@ -11685,6 +13021,10 @@
 		"surrogates":"🎍",
 		"unicodeVersion":6
 	},{
+		"names":["potted_plant"],
+		"surrogates":"🪴",
+		"unicodeVersion":13
+	},{
 		"names":["tanabata_tree"],
 		"surrogates":"🎋",
 		"unicodeVersion":6
@@ -11701,33 +13041,37 @@
 		"surrogates":"🍁",
 		"unicodeVersion":6
 	},{
-		"names":["feather"],
-		"surrogates":"🪶",
-		"unicodeVersion":13
+		"names":["nest_with_eggs"],
+		"surrogates":"🪺",
+		"unicodeVersion":14
+	},{
+		"names":["empty_nest"],
+		"surrogates":"🪹",
+		"unicodeVersion":14
 	},{
 		"names":["mushroom"],
 		"surrogates":"🍄",
 		"unicodeVersion":6
 	},{
-		"names":["shell"],
+		"names":["brown_mushroom"],
+		"surrogates":"🍄‍🟫",
+		"unicodeVersion":15.1
+	},{
+		"names":["shell","spiral_shell"],
 		"surrogates":"🐚",
 		"unicodeVersion":6
+	},{
+		"names":["coral"],
+		"surrogates":"🪸",
+		"unicodeVersion":14
 	},{
 		"names":["rock"],
 		"surrogates":"🪨",
 		"unicodeVersion":13
 	},{
-		"names":["wood"],
-		"surrogates":"🪵",
-		"unicodeVersion":13
-	},{
-		"names":["ear_of_rice"],
+		"names":["ear_of_rice","sheaf_of_rice"],
 		"surrogates":"🌾",
 		"unicodeVersion":6
-	},{
-		"names":["potted_plant"],
-		"surrogates":"🪴",
-		"unicodeVersion":13
 	},{
 		"names":["bouquet"],
 		"surrogates":"💐",
@@ -11744,6 +13088,14 @@
 		"names":["wilted_rose","wilted_flower"],
 		"surrogates":"🥀",
 		"unicodeVersion":9
+	},{
+		"names":["hyacinth"],
+		"surrogates":"🪻",
+		"unicodeVersion":15
+	},{
+		"names":["lotus"],
+		"surrogates":"🪷",
+		"unicodeVersion":14
 	},{
 		"names":["hibiscus"],
 		"surrogates":"🌺",
@@ -11777,7 +13129,7 @@
 		"surrogates":"🌜",
 		"unicodeVersion":6
 	},{
-		"names":["new_moon_with_face"],
+		"names":["new_moon_with_face","new_moon_face"],
 		"surrogates":"🌚",
 		"unicodeVersion":6
 	},{
@@ -11841,7 +13193,7 @@
 		"surrogates":"⭐",
 		"unicodeVersion":5.1
 	},{
-		"names":["star2"],
+		"names":["star2","glowing_star"],
 		"surrogates":"🌟",
 		"unicodeVersion":6
 	},{
@@ -11849,7 +13201,7 @@
 		"surrogates":"✨",
 		"unicodeVersion":6
 	},{
-		"names":["zap"],
+		"names":["zap","high_voltage"],
 		"surrogates":"⚡",
 		"unicodeVersion":4
 	},{
@@ -11857,7 +13209,7 @@
 		"surrogates":"☄️",
 		"unicodeVersion":1.1
 	},{
-		"names":["boom"],
+		"names":["boom","collision"],
 		"surrogates":"💥",
 		"unicodeVersion":6
 	},{
@@ -11865,7 +13217,7 @@
 		"surrogates":"🔥",
 		"unicodeVersion":6
 	},{
-		"names":["cloud_tornado","cloud_with_tornado"],
+		"names":["cloud_tornado","cloud_with_tornado","tornado"],
 		"surrogates":"🌪️",
 		"unicodeVersion":7
 	},{
@@ -11873,7 +13225,7 @@
 		"surrogates":"🌈",
 		"unicodeVersion":6
 	},{
-		"names":["sunny"],
+		"names":["sunny","sun"],
 		"surrogates":"☀️",
 		"unicodeVersion":1.1
 	},{
@@ -11925,11 +13277,11 @@
 		"surrogates":"⛄",
 		"unicodeVersion":5.2
 	},{
-		"names":["wind_blowing_face"],
+		"names":["wind_blowing_face","wind_face"],
 		"surrogates":"🌬️",
 		"unicodeVersion":7
 	},{
-		"names":["dash"],
+		"names":["dash","dashing_away"],
 		"surrogates":"💨",
 		"unicodeVersion":6
 	},{
@@ -11941,6 +13293,10 @@
 		"surrogates":"💦",
 		"unicodeVersion":6
 	},{
+		"names":["bubbles"],
+		"surrogates":"🫧",
+		"unicodeVersion":14
+	},{
 		"names":["umbrella"],
 		"surrogates":"☔",
 		"unicodeVersion":4
@@ -11949,7 +13305,7 @@
 		"surrogates":"☂️",
 		"unicodeVersion":1.1
 	},{
-		"names":["ocean"],
+		"names":["ocean","water_wave"],
 		"surrogates":"🌊",
 		"unicodeVersion":6
 	},{
@@ -11962,7 +13318,7 @@
 		"surrogates":"🍏",
 		"unicodeVersion":6
 	},{
-		"names":["apple"],
+		"names":["apple","red_apple"],
 		"surrogates":"🍎",
 		"unicodeVersion":6
 	},{
@@ -11978,6 +13334,10 @@
 		"surrogates":"🍋",
 		"unicodeVersion":6
 	},{
+		"names":["lime"],
+		"surrogates":"🍋‍🟩",
+		"unicodeVersion":15.1
+	},{
 		"names":["banana"],
 		"surrogates":"🍌",
 		"unicodeVersion":6
@@ -11990,13 +13350,13 @@
 		"surrogates":"🍇",
 		"unicodeVersion":6
 	},{
-		"names":["blueberries"],
-		"surrogates":"🫐",
-		"unicodeVersion":13
-	},{
 		"names":["strawberry"],
 		"surrogates":"🍓",
 		"unicodeVersion":6
+	},{
+		"names":["blueberries"],
+		"surrogates":"🫐",
+		"unicodeVersion":13
 	},{
 		"names":["melon"],
 		"surrogates":"🍈",
@@ -12022,7 +13382,7 @@
 		"surrogates":"🥥",
 		"unicodeVersion":10
 	},{
-		"names":["kiwi","kiwifruit"],
+		"names":["kiwi","kiwifruit","kiwi_fruit"],
 		"surrogates":"🥝",
 		"unicodeVersion":9
 	},{
@@ -12038,9 +13398,9 @@
 		"surrogates":"🥑",
 		"unicodeVersion":9
 	},{
-		"names":["olive"],
-		"surrogates":"🫒",
-		"unicodeVersion":13
+		"names":["pea_pod"],
+		"surrogates":"🫛",
+		"unicodeVersion":15
 	},{
 		"names":["broccoli"],
 		"surrogates":"🥦",
@@ -12050,10 +13410,6 @@
 		"surrogates":"🥬",
 		"unicodeVersion":11
 	},{
-		"names":["bell_pepper"],
-		"surrogates":"🫑",
-		"unicodeVersion":13
-	},{
 		"names":["cucumber"],
 		"surrogates":"🥒",
 		"unicodeVersion":9
@@ -12062,13 +13418,21 @@
 		"surrogates":"🌶️",
 		"unicodeVersion":7
 	},{
-		"names":["corn"],
+		"names":["bell_pepper"],
+		"surrogates":"🫑",
+		"unicodeVersion":13
+	},{
+		"names":["corn","ear_of_corn"],
 		"surrogates":"🌽",
 		"unicodeVersion":6
 	},{
 		"names":["carrot"],
 		"surrogates":"🥕",
 		"unicodeVersion":9
+	},{
+		"names":["olive"],
+		"surrogates":"🫒",
+		"unicodeVersion":13
 	},{
 		"names":["garlic"],
 		"surrogates":"🧄",
@@ -12086,6 +13450,10 @@
 		"surrogates":"🍠",
 		"unicodeVersion":6
 	},{
+		"names":["ginger_root"],
+		"surrogates":"🫚",
+		"unicodeVersion":15
+	},{
 		"names":["croissant"],
 		"surrogates":"🥐",
 		"unicodeVersion":9
@@ -12101,10 +13469,6 @@
 		"names":["french_bread","baguette_bread"],
 		"surrogates":"🥖",
 		"unicodeVersion":9
-	},{
-		"names":["flatbread"],
-		"surrogates":"🫓",
-		"unicodeVersion":13
 	},{
 		"names":["pretzel"],
 		"surrogates":"🥨",
@@ -12150,6 +13514,10 @@
 		"surrogates":"🍖",
 		"unicodeVersion":6
 	},{
+		"names":["bone"],
+		"surrogates":"🦴",
+		"unicodeVersion":11
+	},{
 		"names":["hotdog","hot_dog"],
 		"surrogates":"🌭",
 		"unicodeVersion":8
@@ -12158,13 +13526,17 @@
 		"surrogates":"🍔",
 		"unicodeVersion":6
 	},{
-		"names":["fries"],
+		"names":["fries","french_fries"],
 		"surrogates":"🍟",
 		"unicodeVersion":6
 	},{
 		"names":["pizza"],
 		"surrogates":"🍕",
 		"unicodeVersion":6
+	},{
+		"names":["flatbread"],
+		"surrogates":"🫓",
+		"unicodeVersion":13
 	},{
 		"names":["sandwich"],
 		"surrogates":"🥪",
@@ -12206,19 +13578,23 @@
 		"surrogates":"🥫",
 		"unicodeVersion":10
 	},{
+		"names":["jar"],
+		"surrogates":"🫙",
+		"unicodeVersion":14
+	},{
 		"names":["spaghetti"],
 		"surrogates":"🍝",
 		"unicodeVersion":6
 	},{
-		"names":["ramen"],
+		"names":["ramen","steaming_bowl"],
 		"surrogates":"🍜",
 		"unicodeVersion":6
 	},{
-		"names":["stew"],
+		"names":["stew","pot_of_food"],
 		"surrogates":"🍲",
 		"unicodeVersion":6
 	},{
-		"names":["curry"],
+		"names":["curry","curry_rice"],
 		"surrogates":"🍛",
 		"unicodeVersion":6
 	},{
@@ -12226,7 +13602,7 @@
 		"surrogates":"🍣",
 		"unicodeVersion":6
 	},{
-		"names":["bento"],
+		"names":["bento","bento_box"],
 		"surrogates":"🍱",
 		"unicodeVersion":6
 	},{
@@ -12246,7 +13622,7 @@
 		"surrogates":"🍙",
 		"unicodeVersion":6
 	},{
-		"names":["rice"],
+		"names":["rice","cooked_rice"],
 		"surrogates":"🍚",
 		"unicodeVersion":6
 	},{
@@ -12294,11 +13670,11 @@
 		"surrogates":"🧁",
 		"unicodeVersion":11
 	},{
-		"names":["cake"],
+		"names":["cake","shortcake"],
 		"surrogates":"🍰",
 		"unicodeVersion":6
 	},{
-		"names":["birthday"],
+		"names":["birthday","birthday_cake"],
 		"surrogates":"🎂",
 		"unicodeVersion":6
 	},{
@@ -12338,6 +13714,10 @@
 		"surrogates":"🥜",
 		"unicodeVersion":9
 	},{
+		"names":["beans"],
+		"surrogates":"🫘",
+		"unicodeVersion":14
+	},{
 		"names":["honey_pot"],
 		"surrogates":"🍯",
 		"unicodeVersion":6
@@ -12346,11 +13726,19 @@
 		"surrogates":"🥛",
 		"unicodeVersion":9
 	},{
+		"names":["pouring_liquid"],
+		"surrogates":"🫗",
+		"unicodeVersion":14
+	},{
 		"names":["baby_bottle"],
 		"surrogates":"🍼",
 		"unicodeVersion":6
 	},{
-		"names":["coffee"],
+		"names":["teapot"],
+		"surrogates":"🫖",
+		"unicodeVersion":13
+	},{
+		"names":["coffee","hot_beverage"],
 		"surrogates":"☕",
 		"unicodeVersion":4
 	},{
@@ -12358,17 +13746,9 @@
 		"surrogates":"🍵",
 		"unicodeVersion":6
 	},{
-		"names":["teapot"],
-		"surrogates":"🫖",
-		"unicodeVersion":13
-	},{
 		"names":["mate"],
 		"surrogates":"🧉",
 		"unicodeVersion":12
-	},{
-		"names":["bubble_tea"],
-		"surrogates":"🧋",
-		"unicodeVersion":13
 	},{
 		"names":["beverage_box"],
 		"surrogates":"🧃",
@@ -12378,11 +13758,15 @@
 		"surrogates":"🥤",
 		"unicodeVersion":10
 	},{
+		"names":["bubble_tea"],
+		"surrogates":"🧋",
+		"unicodeVersion":13
+	},{
 		"names":["sake"],
 		"surrogates":"🍶",
 		"unicodeVersion":6
 	},{
-		"names":["beer"],
+		"names":["beer","beer_mug"],
 		"surrogates":"🍺",
 		"unicodeVersion":6
 	},{
@@ -12447,7 +13831,7 @@
 		"unicodeVersion":11
 	}],
 	"activity":[{
-		"names":["soccer"],
+		"names":["soccer","soccer_ball"],
 		"surrogates":"⚽",
 		"unicodeVersion":5.2
 	},{
@@ -12483,10 +13867,6 @@
 		"surrogates":"🥏",
 		"unicodeVersion":11
 	},{
-		"names":["boomerang"],
-		"surrogates":"🪃",
-		"unicodeVersion":13
-	},{
 		"names":["8ball"],
 		"surrogates":"🎱",
 		"unicodeVersion":6
@@ -12503,7 +13883,7 @@
 		"surrogates":"🏸",
 		"unicodeVersion":8
 	},{
-		"names":["hockey"],
+		"names":["hockey","ice_hockey"],
 		"surrogates":"🏒",
 		"unicodeVersion":8
 	},{
@@ -12519,11 +13899,15 @@
 		"surrogates":"🏏",
 		"unicodeVersion":8
 	},{
+		"names":["boomerang"],
+		"surrogates":"🪃",
+		"unicodeVersion":13
+	},{
 		"names":["goal","goal_net"],
 		"surrogates":"🥅",
 		"unicodeVersion":9
 	},{
-		"names":["golf"],
+		"names":["golf","flag_in_hole"],
 		"surrogates":"⛳",
 		"unicodeVersion":5.2
 	},{
@@ -12531,11 +13915,15 @@
 		"surrogates":"🪁",
 		"unicodeVersion":12
 	},{
+		"names":["playground_slide"],
+		"surrogates":"🛝",
+		"unicodeVersion":14
+	},{
 		"names":["bow_and_arrow","archery"],
 		"surrogates":"🏹",
 		"unicodeVersion":8
 	},{
-		"names":["fishing_pole_and_fish"],
+		"names":["fishing_pole_and_fish","fishing_pole"],
 		"surrogates":"🎣",
 		"unicodeVersion":6
 	},{
@@ -12551,7 +13939,7 @@
 		"surrogates":"🥋",
 		"unicodeVersion":9
 	},{
-		"names":["running_shirt_with_sash"],
+		"names":["running_shirt_with_sash","running_shirt"],
 		"surrogates":"🎽",
 		"unicodeVersion":6
 	},{
@@ -12575,7 +13963,7 @@
 		"surrogates":"🥌",
 		"unicodeVersion":10
 	},{
-		"names":["ski"],
+		"names":["ski","skis"],
 		"surrogates":"🎿",
 		"unicodeVersion":6
 	},{
@@ -14243,7 +15631,7 @@
 		"surrogates":"🎨",
 		"unicodeVersion":6
 	},{
-		"names":["clapper"],
+		"names":["clapper","clapper_board"],
 		"surrogates":"🎬",
 		"unicodeVersion":6
 	},{
@@ -14251,7 +15639,7 @@
 		"surrogates":"🎤",
 		"unicodeVersion":6
 	},{
-		"names":["headphones"],
+		"names":["headphones","headphone"],
 		"surrogates":"🎧",
 		"unicodeVersion":6
 	},{
@@ -14262,6 +15650,10 @@
 		"names":["musical_keyboard"],
 		"surrogates":"🎹",
 		"unicodeVersion":6
+	},{
+		"names":["maracas"],
+		"surrogates":"🪇",
+		"unicodeVersion":15
 	},{
 		"names":["drum","drum_with_drumsticks"],
 		"surrogates":"🥁",
@@ -14279,6 +15671,10 @@
 		"surrogates":"🎺",
 		"unicodeVersion":6
 	},{
+		"names":["accordion"],
+		"surrogates":"🪗",
+		"unicodeVersion":13
+	},{
 		"names":["guitar"],
 		"surrogates":"🎸",
 		"unicodeVersion":6
@@ -14291,9 +15687,9 @@
 		"surrogates":"🎻",
 		"unicodeVersion":6
 	},{
-		"names":["accordion"],
-		"surrogates":"🪗",
-		"unicodeVersion":13
+		"names":["flute"],
+		"surrogates":"🪈",
+		"unicodeVersion":15
 	},{
 		"names":["game_die"],
 		"surrogates":"🎲",
@@ -14303,7 +15699,7 @@
 		"surrogates":"♟️",
 		"unicodeVersion":1.1
 	},{
-		"names":["dart"],
+		"names":["dart","direct_hit"],
 		"surrogates":"🎯",
 		"unicodeVersion":6
 	},{
@@ -14319,12 +15715,12 @@
 		"surrogates":"🎰",
 		"unicodeVersion":6
 	},{
-		"names":["jigsaw"],
+		"names":["jigsaw","puzzle_piece"],
 		"surrogates":"🧩",
 		"unicodeVersion":11
 	}],
 	"travel":[{
-		"names":["red_car"],
+		"names":["red_car","automobile"],
 		"surrogates":"🚗",
 		"unicodeVersion":6
 	},{
@@ -14339,6 +15735,10 @@
 		"names":["pickup_truck"],
 		"surrogates":"🛻",
 		"unicodeVersion":13
+	},{
+		"names":["minibus"],
+		"surrogates":"🚐",
+		"unicodeVersion":6
 	},{
 		"names":["bus"],
 		"surrogates":"🚌",
@@ -14362,10 +15762,6 @@
 	},{
 		"names":["fire_engine"],
 		"surrogates":"🚒",
-		"unicodeVersion":6
-	},{
-		"names":["minibus"],
-		"surrogates":"🚐",
 		"unicodeVersion":6
 	},{
 		"names":["truck"],
@@ -14392,11 +15788,15 @@
 		"surrogates":"🦼",
 		"unicodeVersion":12
 	},{
-		"names":["scooter"],
+		"names":["crutch"],
+		"surrogates":"🩼",
+		"unicodeVersion":14
+	},{
+		"names":["scooter","kick_scooter"],
 		"surrogates":"🛴",
 		"unicodeVersion":9
 	},{
-		"names":["bike"],
+		"names":["bike","bicycle"],
 		"surrogates":"🚲",
 		"unicodeVersion":6
 	},{
@@ -14411,6 +15811,10 @@
 		"names":["auto_rickshaw"],
 		"surrogates":"🛺",
 		"unicodeVersion":12
+	},{
+		"names":["wheel"],
+		"surrogates":"🛞",
+		"unicodeVersion":14
 	},{
 		"names":["rotating_light"],
 		"surrogates":"🚨",
@@ -14448,7 +15852,7 @@
 		"surrogates":"🚃",
 		"unicodeVersion":6
 	},{
-		"names":["train"],
+		"names":["train","tram_car"],
 		"surrogates":"🚋",
 		"unicodeVersion":6
 	},{
@@ -14464,7 +15868,7 @@
 		"surrogates":"🚄",
 		"unicodeVersion":6
 	},{
-		"names":["bullettrain_front"],
+		"names":["bullettrain_front","bullet_train"],
 		"surrogates":"🚅",
 		"unicodeVersion":6
 	},{
@@ -14472,7 +15876,7 @@
 		"surrogates":"🚈",
 		"unicodeVersion":6
 	},{
-		"names":["steam_locomotive"],
+		"names":["steam_locomotive","locomotive"],
 		"surrogates":"🚂",
 		"unicodeVersion":6
 	},{
@@ -14540,7 +15944,7 @@
 		"surrogates":"🚤",
 		"unicodeVersion":6
 	},{
-		"names":["motorboat"],
+		"names":["motorboat","motor_boat"],
 		"surrogates":"🛥️",
 		"unicodeVersion":7
 	},{
@@ -14556,11 +15960,19 @@
 		"surrogates":"🚢",
 		"unicodeVersion":6
 	},{
+		"names":["ring_buoy"],
+		"surrogates":"🛟",
+		"unicodeVersion":14
+	},{
 		"names":["anchor"],
 		"surrogates":"⚓",
 		"unicodeVersion":4.1
 	},{
-		"names":["fuelpump"],
+		"names":["hook"],
+		"surrogates":"🪝",
+		"unicodeVersion":13
+	},{
+		"names":["fuelpump","fuel_pump"],
 		"surrogates":"⛽",
 		"unicodeVersion":5.2
 	},{
@@ -14576,7 +15988,7 @@
 		"surrogates":"🚥",
 		"unicodeVersion":6
 	},{
-		"names":["busstop"],
+		"names":["busstop","bus_stop"],
 		"surrogates":"🚏",
 		"unicodeVersion":6
 	},{
@@ -14584,7 +15996,7 @@
 		"surrogates":"🗺️",
 		"unicodeVersion":7
 	},{
-		"names":["moyai"],
+		"names":["moyai","moai"],
 		"surrogates":"🗿",
 		"unicodeVersion":6
 	},{
@@ -14596,7 +16008,7 @@
 		"surrogates":"🗼",
 		"unicodeVersion":6
 	},{
-		"names":["european_castle"],
+		"names":["european_castle","castle"],
 		"surrogates":"🏰",
 		"unicodeVersion":6
 	},{
@@ -14672,7 +16084,7 @@
 		"surrogates":"🏡",
 		"unicodeVersion":6
 	},{
-		"names":["homes","house_buildings"],
+		"names":["homes","house_buildings","houses"],
 		"surrogates":"🏘️",
 		"unicodeVersion":7
 	},{
@@ -14772,7 +16184,7 @@
 		"surrogates":"🛣️",
 		"unicodeVersion":7
 	},{
-		"names":["japan"],
+		"names":["japan","map_of_japan"],
 		"surrogates":"🗾",
 		"unicodeVersion":6
 	},{
@@ -14792,7 +16204,7 @@
 		"surrogates":"🌄",
 		"unicodeVersion":6
 	},{
-		"names":["stars"],
+		"names":["stars","shooting_star"],
 		"surrogates":"🌠",
 		"unicodeVersion":6
 	},{
@@ -14804,7 +16216,7 @@
 		"surrogates":"🎆",
 		"unicodeVersion":6
 	},{
-		"names":["city_sunset","city_sunrise"],
+		"names":["city_sunset","city_sunrise","sunset"],
 		"surrogates":"🌇",
 		"unicodeVersion":6
 	},{
@@ -14873,11 +16285,11 @@
 		"surrogates":"🕹️",
 		"unicodeVersion":7
 	},{
-		"names":["compression"],
+		"names":["compression","clamp"],
 		"surrogates":"🗜️",
 		"unicodeVersion":7
 	},{
-		"names":["minidisc"],
+		"names":["minidisc","computer_disk"],
 		"surrogates":"💽",
 		"unicodeVersion":6
 	},{
@@ -14885,7 +16297,7 @@
 		"surrogates":"💾",
 		"unicodeVersion":6
 	},{
-		"names":["cd"],
+		"names":["cd","optical_disk"],
 		"surrogates":"💿",
 		"unicodeVersion":6
 	},{
@@ -14893,7 +16305,7 @@
 		"surrogates":"📀",
 		"unicodeVersion":6
 	},{
-		"names":["vhs"],
+		"names":["vhs","videocassette"],
 		"surrogates":"📼",
 		"unicodeVersion":6
 	},{
@@ -14933,11 +16345,11 @@
 		"surrogates":"📟",
 		"unicodeVersion":6
 	},{
-		"names":["fax"],
+		"names":["fax","fax_machine"],
 		"surrogates":"📠",
 		"unicodeVersion":6
 	},{
-		"names":["tv"],
+		"names":["tv","television"],
 		"surrogates":"📺",
 		"unicodeVersion":6
 	},{
@@ -14993,11 +16405,15 @@
 		"surrogates":"🔋",
 		"unicodeVersion":6
 	},{
+		"names":["low_battery"],
+		"surrogates":"🪫",
+		"unicodeVersion":14
+	},{
 		"names":["electric_plug"],
 		"surrogates":"🔌",
 		"unicodeVersion":6
 	},{
-		"names":["bulb"],
+		"names":["bulb","light_bulb"],
 		"surrogates":"💡",
 		"unicodeVersion":6
 	},{
@@ -15029,11 +16445,11 @@
 		"surrogates":"💵",
 		"unicodeVersion":6
 	},{
-		"names":["yen"],
+		"names":["yen","yen_banknote"],
 		"surrogates":"💴",
 		"unicodeVersion":6
 	},{
-		"names":["euro"],
+		"names":["euro","euro_banknote"],
 		"surrogates":"💶",
 		"unicodeVersion":6
 	},{
@@ -15045,7 +16461,7 @@
 		"surrogates":"🪙",
 		"unicodeVersion":13
 	},{
-		"names":["moneybag"],
+		"names":["moneybag","money_bag"],
 		"surrogates":"💰",
 		"unicodeVersion":6
 	},{
@@ -15053,11 +16469,15 @@
 		"surrogates":"💳",
 		"unicodeVersion":6
 	},{
-		"names":["gem"],
+		"names":["identification_card"],
+		"surrogates":"🪪",
+		"unicodeVersion":14
+	},{
+		"names":["gem","gem_stone"],
 		"surrogates":"💎",
 		"unicodeVersion":6
 	},{
-		"names":["scales"],
+		"names":["scales","balance_scale"],
 		"surrogates":"⚖️",
 		"unicodeVersion":4.1
 	},{
@@ -15093,6 +16513,10 @@
 		"surrogates":"⛏️",
 		"unicodeVersion":5.2
 	},{
+		"names":["carpentry_saw"],
+		"surrogates":"🪚",
+		"unicodeVersion":13
+	},{
 		"names":["nut_and_bolt"],
 		"surrogates":"🔩",
 		"unicodeVersion":6
@@ -15101,7 +16525,11 @@
 		"surrogates":"⚙️",
 		"unicodeVersion":4.1
 	},{
-		"names":["bricks"],
+		"names":["mouse_trap"],
+		"surrogates":"🪤",
+		"unicodeVersion":13
+	},{
+		"names":["bricks","brick"],
 		"surrogates":"🧱",
 		"unicodeVersion":11
 	},{
@@ -15109,19 +16537,19 @@
 		"surrogates":"⛓️",
 		"unicodeVersion":5.2
 	},{
-		"names":["hook"],
-		"surrogates":"🪝",
-		"unicodeVersion":13
+		"names":["link"],
+		"surrogates":"🔗",
+		"unicodeVersion":6
 	},{
-		"names":["knot"],
-		"surrogates":"🪢",
-		"unicodeVersion":13
+		"names":["broken_chain"],
+		"surrogates":"⛓️‍💥",
+		"unicodeVersion":15.1
 	},{
 		"names":["magnet"],
 		"surrogates":"🧲",
 		"unicodeVersion":11
 	},{
-		"names":["gun"],
+		"names":["gun","pistol"],
 		"surrogates":"🔫",
 		"unicodeVersion":6
 	},{
@@ -15137,11 +16565,7 @@
 		"surrogates":"🪓",
 		"unicodeVersion":12
 	},{
-		"names":["carpentry_saw"],
-		"surrogates":"🪚",
-		"unicodeVersion":13
-	},{
-		"names":["knife"],
+		"names":["knife","kitchen_knife"],
 		"surrogates":"🔪",
 		"unicodeVersion":6
 	},{
@@ -15157,7 +16581,7 @@
 		"surrogates":"🛡️",
 		"unicodeVersion":7
 	},{
-		"names":["smoking"],
+		"names":["smoking","cigarette"],
 		"surrogates":"🚬",
 		"unicodeVersion":6
 	},{
@@ -15177,10 +16601,6 @@
 		"surrogates":"🏺",
 		"unicodeVersion":8
 	},{
-		"names":["magic_wand"],
-		"surrogates":"🪄",
-		"unicodeVersion":13
-	},{
 		"names":["crystal_ball"],
 		"surrogates":"🔮",
 		"unicodeVersion":6
@@ -15193,7 +16613,11 @@
 		"surrogates":"🧿",
 		"unicodeVersion":11
 	},{
-		"names":["barber"],
+		"names":["hamsa"],
+		"surrogates":"🪬",
+		"unicodeVersion":14
+	},{
+		"names":["barber","barber_pole"],
 		"surrogates":"💈",
 		"unicodeVersion":6
 	},{
@@ -15213,9 +16637,9 @@
 		"surrogates":"🕳️",
 		"unicodeVersion":7
 	},{
-		"names":["window"],
-		"surrogates":"🪟",
-		"unicodeVersion":13
+		"names":["x_ray"],
+		"surrogates":"🩻",
+		"unicodeVersion":14
 	},{
 		"names":["adhesive_bandage"],
 		"surrogates":"🩹",
@@ -15257,21 +16681,17 @@
 		"surrogates":"🌡️",
 		"unicodeVersion":7
 	},{
-		"names":["mouse_trap"],
-		"surrogates":"🪤",
-		"unicodeVersion":13
-	},{
 		"names":["broom"],
 		"surrogates":"🧹",
 		"unicodeVersion":11
 	},{
+		"names":["plunger"],
+		"surrogates":"🪠",
+		"unicodeVersion":13
+	},{
 		"names":["basket"],
 		"surrogates":"🧺",
 		"unicodeVersion":11
-	},{
-		"names":["sewing_needle"],
-		"surrogates":"🪡",
-		"unicodeVersion":13
 	},{
 		"names":["roll_of_paper"],
 		"surrogates":"🧻",
@@ -15280,14 +16700,6 @@
 		"names":["toilet"],
 		"surrogates":"🚽",
 		"unicodeVersion":6
-	},{
-		"names":["plunger"],
-		"surrogates":"🪠",
-		"unicodeVersion":13
-	},{
-		"names":["bucket"],
-		"surrogates":"🪣",
-		"unicodeVersion":13
 	},{
 		"names":["potable_water"],
 		"surrogates":"🚰",
@@ -15337,23 +16749,31 @@
 			"hasDiversityParent":true
 		}]
 	},{
-		"names":["toothbrush"],
-		"surrogates":"🪥",
-		"unicodeVersion":13
-	},{
 		"names":["soap"],
 		"surrogates":"🧼",
 		"unicodeVersion":11
+	},{
+		"names":["toothbrush"],
+		"surrogates":"🪥",
+		"unicodeVersion":13
 	},{
 		"names":["razor"],
 		"surrogates":"🪒",
 		"unicodeVersion":12
 	},{
+		"names":["hair_pick"],
+		"surrogates":"🪮",
+		"unicodeVersion":15
+	},{
 		"names":["sponge"],
 		"surrogates":"🧽",
 		"unicodeVersion":11
 	},{
-		"names":["squeeze_bottle"],
+		"names":["bucket"],
+		"surrogates":"🪣",
+		"unicodeVersion":13
+	},{
+		"names":["squeeze_bottle","lotion_bottle"],
 		"surrogates":"🧴",
 		"unicodeVersion":11
 	},{
@@ -15377,10 +16797,6 @@
 		"surrogates":"🪑",
 		"unicodeVersion":12
 	},{
-		"names":["mirror"],
-		"surrogates":"🪞",
-		"unicodeVersion":13
-	},{
 		"names":["couch","couch_and_lamp"],
 		"surrogates":"🛋️",
 		"unicodeVersion":7
@@ -15389,7 +16805,7 @@
 		"surrogates":"🛏️",
 		"unicodeVersion":7
 	},{
-		"names":["sleeping_accommodation"],
+		"names":["sleeping_accommodation","person_in_bed"],
 		"surrogates":"🛌",
 		"unicodeVersion":7,
 		"hasDiversity":true,
@@ -15429,9 +16845,21 @@
 		"surrogates":"🧸",
 		"unicodeVersion":11
 	},{
+		"names":["nesting_dolls"],
+		"surrogates":"🪆",
+		"unicodeVersion":13
+	},{
 		"names":["frame_photo","frame_with_picture"],
 		"surrogates":"🖼️",
 		"unicodeVersion":7
+	},{
+		"names":["mirror"],
+		"surrogates":"🪞",
+		"unicodeVersion":13
+	},{
+		"names":["window"],
+		"surrogates":"🪟",
+		"unicodeVersion":13
 	},{
 		"names":["shopping_bags"],
 		"surrogates":"🛍️",
@@ -15441,7 +16869,7 @@
 		"surrogates":"🛒",
 		"unicodeVersion":9
 	},{
-		"names":["gift"],
+		"names":["gift","wrapped_gift"],
 		"surrogates":"🎁",
 		"unicodeVersion":6
 	},{
@@ -15449,7 +16877,7 @@
 		"surrogates":"🎈",
 		"unicodeVersion":6
 	},{
-		"names":["flags"],
+		"names":["flags","carp_streamer"],
 		"surrogates":"🎏",
 		"unicodeVersion":6
 	},{
@@ -15457,25 +16885,29 @@
 		"surrogates":"🎀",
 		"unicodeVersion":6
 	},{
-		"names":["confetti_ball"],
-		"surrogates":"🎊",
-		"unicodeVersion":6
-	},{
-		"names":["tada"],
-		"surrogates":"🎉",
-		"unicodeVersion":6
+		"names":["magic_wand"],
+		"surrogates":"🪄",
+		"unicodeVersion":13
 	},{
 		"names":["piñata"],
 		"surrogates":"🪅",
 		"unicodeVersion":13
 	},{
-		"names":["nesting_dolls"],
-		"surrogates":"🪆",
-		"unicodeVersion":13
+		"names":["confetti_ball"],
+		"surrogates":"🎊",
+		"unicodeVersion":6
+	},{
+		"names":["tada","party_popper"],
+		"surrogates":"🎉",
+		"unicodeVersion":6
 	},{
 		"names":["dolls"],
 		"surrogates":"🎎",
 		"unicodeVersion":6
+	},{
+		"names":["folding_hand_fan"],
+		"surrogates":"🪭",
+		"unicodeVersion":15
 	},{
 		"names":["izakaya_lantern"],
 		"surrogates":"🏮",
@@ -15484,6 +16916,10 @@
 		"names":["wind_chime"],
 		"surrogates":"🎐",
 		"unicodeVersion":6
+	},{
+		"names":["mirror_ball"],
+		"surrogates":"🪩",
+		"unicodeVersion":14
 	},{
 		"names":["red_envelope"],
 		"surrogates":"🧧",
@@ -15525,6 +16961,10 @@
 		"surrogates":"🏷️",
 		"unicodeVersion":7
 	},{
+		"names":["placard"],
+		"surrogates":"🪧",
+		"unicodeVersion":13
+	},{
 		"names":["mailbox_closed"],
 		"surrogates":"📪",
 		"unicodeVersion":6
@@ -15548,10 +16988,6 @@
 		"names":["postal_horn"],
 		"surrogates":"📯",
 		"unicodeVersion":6
-	},{
-		"names":["placard"],
-		"surrogates":"🪧",
-		"unicodeVersion":13
 	},{
 		"names":["scroll"],
 		"surrogates":"📜",
@@ -15677,7 +17113,7 @@
 		"surrogates":"📚",
 		"unicodeVersion":6
 	},{
-		"names":["book"],
+		"names":["book","open_book"],
 		"surrogates":"📖",
 		"unicodeVersion":6
 	},{
@@ -15688,10 +17124,6 @@
 		"names":["safety_pin"],
 		"surrogates":"🧷",
 		"unicodeVersion":11
-	},{
-		"names":["link"],
-		"surrogates":"🔗",
-		"unicodeVersion":6
 	},{
 		"names":["paperclip"],
 		"surrogates":"📎",
@@ -15725,11 +17157,11 @@
 		"surrogates":"✂️",
 		"unicodeVersion":1.1
 	},{
-		"names":["pen_ballpoint","lower_left_ballpoint_pen"],
+		"names":["pen_ballpoint","lower_left_ballpoint_pen","pen"],
 		"surrogates":"🖊️",
 		"unicodeVersion":7
 	},{
-		"names":["pen_fountain","lower_left_fountain_pen"],
+		"names":["pen_fountain","lower_left_fountain_pen","fountain_pen"],
 		"surrogates":"🖋️",
 		"unicodeVersion":7
 	},{
@@ -15769,16 +17201,20 @@
 		"surrogates":"🔐",
 		"unicodeVersion":6
 	},{
-		"names":["lock"],
+		"names":["lock","locked"],
 		"surrogates":"🔒",
 		"unicodeVersion":6
 	},{
-		"names":["unlock"],
+		"names":["unlock","unlocked"],
 		"surrogates":"🔓",
 		"unicodeVersion":6
 	}],
 	"symbols":[{
-		"names":["heart"],
+		"names":["pink_heart"],
+		"surrogates":"🩷",
+		"unicodeVersion":15
+	},{
+		"names":["heart","red_heart"],
 		"surrogates":"❤️",
 		"unicodeVersion":1.1
 	},{
@@ -15794,6 +17230,10 @@
 		"surrogates":"💚",
 		"unicodeVersion":6
 	},{
+		"names":["light_blue_heart"],
+		"surrogates":"🩵",
+		"unicodeVersion":15
+	},{
 		"names":["blue_heart"],
 		"surrogates":"💙",
 		"unicodeVersion":6
@@ -15806,12 +17246,16 @@
 		"surrogates":"🖤",
 		"unicodeVersion":9
 	},{
-		"names":["brown_heart"],
-		"surrogates":"🤎",
-		"unicodeVersion":12
+		"names":["grey_heart"],
+		"surrogates":"🩶",
+		"unicodeVersion":15
 	},{
 		"names":["white_heart"],
 		"surrogates":"🤍",
+		"unicodeVersion":12
+	},{
+		"names":["brown_heart"],
+		"surrogates":"🤎",
 		"unicodeVersion":12
 	},{
 		"names":["broken_heart"],
@@ -15830,11 +17274,11 @@
 		"surrogates":"💞",
 		"unicodeVersion":6
 	},{
-		"names":["heartbeat"],
+		"names":["heartbeat","beating_heart"],
 		"surrogates":"💓",
 		"unicodeVersion":6
 	},{
-		"names":["heartpulse"],
+		"names":["heartpulse","growing_heart"],
 		"surrogates":"💗",
 		"unicodeVersion":6
 	},{
@@ -15881,6 +17325,10 @@
 		"names":["wheel_of_dharma"],
 		"surrogates":"☸️",
 		"unicodeVersion":1.1
+	},{
+		"names":["khanda"],
+		"surrogates":"🪯",
+		"unicodeVersion":15
 	},{
 		"names":["star_of_david"],
 		"surrogates":"✡️",
@@ -15938,7 +17386,7 @@
 		"surrogates":"♎",
 		"unicodeVersion":1.1
 	},{
-		"names":["scorpius"],
+		"names":["scorpius","scorpio"],
 		"surrogates":"♏",
 		"unicodeVersion":1.1
 	},{
@@ -16070,7 +17518,7 @@
 		"surrogates":"🆘",
 		"unicodeVersion":6
 	},{
-		"names":["x"],
+		"names":["x","cross_mark"],
 		"surrogates":"❌",
 		"unicodeVersion":6
 	},{
@@ -16090,7 +17538,7 @@
 		"surrogates":"📛",
 		"unicodeVersion":6
 	},{
-		"names":["no_entry_sign"],
+		"names":["no_entry_sign","prohibited"],
 		"surrogates":"🚫",
 		"unicodeVersion":6
 	},{
@@ -16102,7 +17550,7 @@
 		"surrogates":"💢",
 		"unicodeVersion":6
 	},{
-		"names":["hotsprings"],
+		"names":["hotsprings","hot_springs"],
 		"surrogates":"♨️",
 		"unicodeVersion":1.1
 	},{
@@ -16110,7 +17558,7 @@
 		"surrogates":"🚷",
 		"unicodeVersion":6
 	},{
-		"names":["do_not_litter"],
+		"names":["do_not_litter","no_littering"],
 		"surrogates":"🚯",
 		"unicodeVersion":6
 	},{
@@ -16142,7 +17590,7 @@
 		"surrogates":"❕",
 		"unicodeVersion":6
 	},{
-		"names":["question"],
+		"names":["question","question_mark"],
 		"surrogates":"❓",
 		"unicodeVersion":6
 	},{
@@ -16226,7 +17674,7 @@
 		"surrogates":"💠",
 		"unicodeVersion":6
 	},{
-		"names":["m"],
+		"names":["m","circled_m"],
 		"surrogates":"Ⓜ️",
 		"unicodeVersion":1.1
 	},{
@@ -16242,7 +17690,7 @@
 		"surrogates":"🏧",
 		"unicodeVersion":6
 	},{
-		"names":["wc"],
+		"names":["wc","water_closet"],
 		"surrogates":"🚾",
 		"unicodeVersion":6
 	},{
@@ -16253,6 +17701,10 @@
 		"names":["parking"],
 		"surrogates":"🅿️",
 		"unicodeVersion":5.2
+	},{
+		"names":["elevator"],
+		"surrogates":"🛗",
+		"unicodeVersion":13
 	},{
 		"names":["u7a7a"],
 		"surrogates":"🈳",
@@ -16278,15 +17730,15 @@
 		"surrogates":"🛅",
 		"unicodeVersion":6
 	},{
-		"names":["elevator"],
-		"surrogates":"🛗",
-		"unicodeVersion":13
+		"names":["wireless"],
+		"surrogates":"🛜",
+		"unicodeVersion":15
 	},{
-		"names":["mens"],
+		"names":["mens","mens_room"],
 		"surrogates":"🚹",
 		"unicodeVersion":6
 	},{
-		"names":["womens"],
+		"names":["womens","womens_room"],
 		"surrogates":"🚺",
 		"unicodeVersion":6
 	},{
@@ -16306,7 +17758,7 @@
 		"surrogates":"🎦",
 		"unicodeVersion":6
 	},{
-		"names":["signal_strength"],
+		"names":["signal_strength","antenna_bars"],
 		"surrogates":"📶",
 		"unicodeVersion":6
 	},{
@@ -16314,11 +17766,11 @@
 		"surrogates":"🈁",
 		"unicodeVersion":6
 	},{
-		"names":["symbols"],
+		"names":["symbols","input_symbols"],
 		"surrogates":"🔣",
 		"unicodeVersion":6
 	},{
-		"names":["information_source"],
+		"names":["information_source","information"],
 		"surrogates":"ℹ️",
 		"unicodeVersion":3
 	},{
@@ -16358,51 +17810,51 @@
 		"surrogates":"🆓",
 		"unicodeVersion":6
 	},{
-		"names":["zero"],
+		"names":["zero","number_0"],
 		"surrogates":"0️⃣",
 		"unicodeVersion":3
 	},{
-		"names":["one"],
+		"names":["one","number_1"],
 		"surrogates":"1️⃣",
 		"unicodeVersion":3
 	},{
-		"names":["two"],
+		"names":["two","number_2"],
 		"surrogates":"2️⃣",
 		"unicodeVersion":3
 	},{
-		"names":["three"],
+		"names":["three","number_3"],
 		"surrogates":"3️⃣",
 		"unicodeVersion":3
 	},{
-		"names":["four"],
+		"names":["four","number_4"],
 		"surrogates":"4️⃣",
 		"unicodeVersion":3
 	},{
-		"names":["five"],
+		"names":["five","number_5"],
 		"surrogates":"5️⃣",
 		"unicodeVersion":3
 	},{
-		"names":["six"],
+		"names":["six","number_6"],
 		"surrogates":"6️⃣",
 		"unicodeVersion":3
 	},{
-		"names":["seven"],
+		"names":["seven","number_7"],
 		"surrogates":"7️⃣",
 		"unicodeVersion":3
 	},{
-		"names":["eight"],
+		"names":["eight","number_8"],
 		"surrogates":"8️⃣",
 		"unicodeVersion":3
 	},{
-		"names":["nine"],
+		"names":["nine","number_9"],
 		"surrogates":"9️⃣",
 		"unicodeVersion":3
 	},{
-		"names":["keycap_ten"],
+		"names":["keycap_ten","number_10"],
 		"surrogates":"🔟",
 		"unicodeVersion":6
 	},{
-		"names":["1234"],
+		"names":["1234","input_numbers"],
 		"surrogates":"🔢",
 		"unicodeVersion":6
 	},{
@@ -16474,19 +17926,19 @@
 		"surrogates":"🔽",
 		"unicodeVersion":6
 	},{
-		"names":["arrow_right"],
+		"names":["arrow_right","right_arrow"],
 		"surrogates":"➡️",
 		"unicodeVersion":1.1
 	},{
-		"names":["arrow_left"],
+		"names":["arrow_left","left_arrow"],
 		"surrogates":"⬅️",
 		"unicodeVersion":4
 	},{
-		"names":["arrow_up"],
+		"names":["arrow_up","up_arrow"],
 		"surrogates":"⬆️",
 		"unicodeVersion":4
 	},{
-		"names":["arrow_down"],
+		"names":["arrow_down","down_arrow"],
 		"surrogates":"⬇️",
 		"unicodeVersion":4
 	},{
@@ -16502,11 +17954,11 @@
 		"surrogates":"↙️",
 		"unicodeVersion":1.1
 	},{
-		"names":["arrow_upper_left"],
+		"names":["arrow_upper_left","up_left_arrow"],
 		"surrogates":"↖️",
 		"unicodeVersion":1.1
 	},{
-		"names":["arrow_up_down"],
+		"names":["arrow_up_down","up_down_arrow"],
 		"surrogates":"↕️",
 		"unicodeVersion":1.1
 	},{
@@ -16554,7 +18006,7 @@
 		"surrogates":"🎵",
 		"unicodeVersion":6
 	},{
-		"names":["notes"],
+		"names":["notes","musical_notes"],
 		"surrogates":"🎶",
 		"unicodeVersion":6
 	},{
@@ -16574,6 +18026,10 @@
 		"surrogates":"✖️",
 		"unicodeVersion":1.1
 	},{
+		"names":["heavy_equals_sign"],
+		"surrogates":"🟰",
+		"unicodeVersion":14
+	},{
 		"names":["infinity"],
 		"surrogates":"♾️",
 		"unicodeVersion":11
@@ -16586,7 +18042,7 @@
 		"surrogates":"💱",
 		"unicodeVersion":6
 	},{
-		"names":["tm"],
+		"names":["tm","trade_mark"],
 		"surrogates":"™️",
 		"unicodeVersion":1.1
 	},{
@@ -16610,27 +18066,27 @@
 		"surrogates":"➿",
 		"unicodeVersion":6
 	},{
-		"names":["end"],
+		"names":["end","end_arrow"],
 		"surrogates":"🔚",
 		"unicodeVersion":6
 	},{
-		"names":["back"],
+		"names":["back","back_arrow"],
 		"surrogates":"🔙",
 		"unicodeVersion":6
 	},{
-		"names":["on"],
+		"names":["on","on_arrow"],
 		"surrogates":"🔛",
 		"unicodeVersion":6
 	},{
-		"names":["top"],
+		"names":["top","top_arrow"],
 		"surrogates":"🔝",
 		"unicodeVersion":6
 	},{
-		"names":["soon"],
+		"names":["soon","soon_arrow"],
 		"surrogates":"🔜",
 		"unicodeVersion":6
 	},{
-		"names":["heavy_check_mark"],
+		"names":["heavy_check_mark","check_mark"],
 		"surrogates":"✔️",
 		"unicodeVersion":1.1
 	},{
@@ -16774,7 +18230,7 @@
 		"surrogates":"🔈",
 		"unicodeVersion":6
 	},{
-		"names":["mute"],
+		"names":["mute","muted_speaker"],
 		"surrogates":"🔇",
 		"unicodeVersion":6
 	},{
@@ -16794,7 +18250,7 @@
 		"surrogates":"🔕",
 		"unicodeVersion":6
 	},{
-		"names":["mega"],
+		"names":["mega","megaphone"],
 		"surrogates":"📣",
 		"unicodeVersion":6
 	},{
@@ -16822,23 +18278,23 @@
 		"surrogates":"🗯️",
 		"unicodeVersion":7
 	},{
-		"names":["spades"],
+		"names":["spades","spade_suit"],
 		"surrogates":"♠️",
 		"unicodeVersion":1.1
 	},{
-		"names":["clubs"],
+		"names":["clubs","club_suit"],
 		"surrogates":"♣️",
 		"unicodeVersion":1.1
 	},{
-		"names":["hearts"],
+		"names":["hearts","heart_suit"],
 		"surrogates":"♥️",
 		"unicodeVersion":1.1
 	},{
-		"names":["diamonds"],
+		"names":["diamonds","diamond_suit"],
 		"surrogates":"♦️",
 		"unicodeVersion":1.1
 	},{
-		"names":["black_joker"],
+		"names":["black_joker","joker"],
 		"surrogates":"🃏",
 		"unicodeVersion":6
 	},{
@@ -16850,99 +18306,99 @@
 		"surrogates":"🀄",
 		"unicodeVersion":5.1
 	},{
-		"names":["clock1"],
+		"names":["clock1","one_oclock"],
 		"surrogates":"🕐",
 		"unicodeVersion":6
 	},{
-		"names":["clock2"],
+		"names":["clock2","two_oclock"],
 		"surrogates":"🕑",
 		"unicodeVersion":6
 	},{
-		"names":["clock3"],
+		"names":["clock3","three_oclock"],
 		"surrogates":"🕒",
 		"unicodeVersion":6
 	},{
-		"names":["clock4"],
+		"names":["clock4","four_oclock"],
 		"surrogates":"🕓",
 		"unicodeVersion":6
 	},{
-		"names":["clock5"],
+		"names":["clock5","five_oclock"],
 		"surrogates":"🕔",
 		"unicodeVersion":6
 	},{
-		"names":["clock6"],
+		"names":["clock6","six_oclock"],
 		"surrogates":"🕕",
 		"unicodeVersion":6
 	},{
-		"names":["clock7"],
+		"names":["clock7","seven_oclock"],
 		"surrogates":"🕖",
 		"unicodeVersion":6
 	},{
-		"names":["clock8"],
+		"names":["clock8","eight_oclock"],
 		"surrogates":"🕗",
 		"unicodeVersion":6
 	},{
-		"names":["clock9"],
+		"names":["clock9","nine_oclock"],
 		"surrogates":"🕘",
 		"unicodeVersion":6
 	},{
-		"names":["clock10"],
+		"names":["clock10","ten_oclock"],
 		"surrogates":"🕙",
 		"unicodeVersion":6
 	},{
-		"names":["clock11"],
+		"names":["clock11","eleven_oclock"],
 		"surrogates":"🕚",
 		"unicodeVersion":6
 	},{
-		"names":["clock12"],
+		"names":["clock12","twelve_oclock"],
 		"surrogates":"🕛",
 		"unicodeVersion":6
 	},{
-		"names":["clock130"],
+		"names":["clock130","one_thirty"],
 		"surrogates":"🕜",
 		"unicodeVersion":6
 	},{
-		"names":["clock230"],
+		"names":["clock230","two_thirty"],
 		"surrogates":"🕝",
 		"unicodeVersion":6
 	},{
-		"names":["clock330"],
+		"names":["clock330","three_thirty"],
 		"surrogates":"🕞",
 		"unicodeVersion":6
 	},{
-		"names":["clock430"],
+		"names":["clock430","four_thirty"],
 		"surrogates":"🕟",
 		"unicodeVersion":6
 	},{
-		"names":["clock530"],
+		"names":["clock530","five_thirty"],
 		"surrogates":"🕠",
 		"unicodeVersion":6
 	},{
-		"names":["clock630"],
+		"names":["clock630","six_thirty"],
 		"surrogates":"🕡",
 		"unicodeVersion":6
 	},{
-		"names":["clock730"],
+		"names":["clock730","seven_thirty"],
 		"surrogates":"🕢",
 		"unicodeVersion":6
 	},{
-		"names":["clock830"],
+		"names":["clock830","eight_thirty"],
 		"surrogates":"🕣",
 		"unicodeVersion":6
 	},{
-		"names":["clock930"],
+		"names":["clock930","nine_thirty"],
 		"surrogates":"🕤",
 		"unicodeVersion":6
 	},{
-		"names":["clock1030"],
+		"names":["clock1030","ten_thirty"],
 		"surrogates":"🕥",
 		"unicodeVersion":6
 	},{
-		"names":["clock1130"],
+		"names":["clock1130","eleven_thirty"],
 		"surrogates":"🕦",
 		"unicodeVersion":6
 	},{
-		"names":["clock1230"],
+		"names":["clock1230","twelve_thirty"],
 		"surrogates":"🕧",
 		"unicodeVersion":6
 	},{
@@ -17075,6 +18531,10 @@
 		"surrogates":"🏴",
 		"unicodeVersion":7
 	},{
+		"names":["pirate_flag"],
+		"surrogates":"🏴‍☠️",
+		"unicodeVersion":11
+	},{
 		"names":["checkered_flag"],
 		"surrogates":"🏁",
 		"unicodeVersion":6
@@ -17091,9 +18551,9 @@
 		"surrogates":"🏳️‍⚧️",
 		"unicodeVersion":13
 	},{
-		"names":["pirate_flag"],
-		"surrogates":"🏴‍☠️",
-		"unicodeVersion":11
+		"names":["united_nations"],
+		"surrogates":"🇺🇳",
+		"unicodeVersion":6
 	},{
 		"names":["flag_af"],
 		"surrogates":"🇦🇫",
@@ -18137,10 +19597,6 @@
 	},{
 		"names":["flag_um"],
 		"surrogates":"🇺🇲",
-		"unicodeVersion":6
-	},{
-		"names":["united_nations"],
-		"surrogates":"🇺🇳",
 		"unicodeVersion":6
 	}]
 }
